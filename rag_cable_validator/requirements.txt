@@ -1,0 +1,22 @@
+fastapi
+uvicorn
+torch
+transformers
+accelerate
+sentence-transformers
+faiss-cpu
+numpy
+pydantic
+pymupdf
+pytesseract
+pillow
+regex
+
+
+# {
+#   "text": "Copper conductor, PVC insulation, 0.6/1 kV, CSA 16 sqmm, insulation thickness 1.2 mm"
+# }
+
+# {
+#   "text": "XLPE cable 50 sqmm 1.8/3 kV insulation thickness 1.0 mm"
+# }

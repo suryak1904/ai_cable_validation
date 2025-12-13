@@ -1,0 +1,1134 @@
+[
+  {
+    "text": "INTERNATIONAL STANDARD IEC 60502-1 Second editian 2004-04 | Power cables with extruded insulation and their accessories for rated voltages from 1 kV (U,, = 1,2 kV) up to 30 kV (U,, = 36 kV) - Part 1: Cables for rated voltages of 1 kV ((U,, = 1,2 kV) and 3 kV (Um = 3,6 kV) language pages.",
+    "page": 1
+  },
+  {
+    "text": "This English-language version is derived from the original bilingual publication by leaving out all French-language pages. Missing page numbers correspond to the French- Customer: Mehmet Derel - No. of Usar{s): 1 - Company: 2M KASLO LTO Reference number IEC 60502-1:2004(E} Order Na.: WS-2005-006603 - IMPORTANT.",
+    "page": 1
+  },
+  {
+    "text": "This file is copyright of IEC, Genova, Swilzeriand, Al rigtia reserved This file is subject {04 licence agreement. Erquines to Emart custservtec.ch \u00ab Tel +41 2291902 41",
+    "page": 1
+  },
+  {
+    "text": "Publication numbering Ga000 sales Pororomple126 341 a now eared n.aeiec soDse4 Consolidated editions {elton umbers 1a,\"and 12 tar, especieta thoes pubaton Ns Further information on IEC publications thus snourng tha ta contort acs caren! wchtalogynormeton flange Dubletons(05 Gulow) addon thew elions, amendmentsand carers, frtomaton onthe sunjace undo eaeiertion and workin proaeess + TRC Wop Ste (awa Jeo \u201cThe ene caabaueoy to EC vob oe nalnzehoaho) nobles you to {ha date of pbleation, Onna Infrmaton aga svalaio on recon =n008 TD gay cy md pnt ica 29) ol fatter atomaton sy ave nygers ear hepato re ue sac, eral Fae: 181220180300 Greeti: Meaney MORAN? ettapna eb, Gone, Suze eas seeThales uojic to icone nour Engi onel esisoreonsn tl s4\u00a5 22 51000",
+    "page": 2
+  },
+  {
+    "text": "INTERNATIONAL IEC STANDARD 60502-1 Second edition 2004-04 Power cables with extruded insulation and their accessories for rated voltages from 1 kV (U,, = 1,2 kV) up to 30 kV (U,, = 36 kV) - Part 1: Cables for rated voltages of 1 kV ((U,, = 1,2 kV) and 3 kV (Um = 3,6 kV) \u00a9 IEC 2004 Copyright - all rights reserved No part cf ths pubbcefen may be reproduced or utilized in any form cr by any Means, alectrone of mechanics induding piotcoagyng ned microfilm, wihoul permission in writing from the publisher.",
+    "page": 3
+  },
+  {
+    "text": "Intomatiies! Becrowchriicoal Commsann, 3, tue de Varemid, PO Bex 151, CH-1211 Genova 20, Switzeriand Teephone 44 229190211 Teletae: 441229190300 E-mal inraiiiiiecch Wat) wawwincch Comms aioe Elactotechniqua Internatianals PRICE CODE XA Internolionasl Electrotechnical Cormmission Maxaqyrapequan Snectporemnmuscas Komnoceun for toe ci caleieeaie Customer! Mehmint Beret ~ No, of sar(si;",
+    "page": 3
+  },
+  {
+    "text": "1 - Company: 2M KABLOLTO Order Nia.: WS-2005-004603 - IMPORTANT: This file is copyign! of IEC, Geneva, Switzerland. Al nights reserved This ffo i sutyect to a Hoeroes agreement, Enquines io Emar custserv\u00e9dec ch - Tel. +4422 91002 11 0502-1 \u00a9 1\u20acC:2004 CONTENTS FOREWORD. Scope. 2 Normative references. 3.",
+    "page": 3
+  },
+  {
+    "text": "Terms and definitions 34 32 4 vol 44 42 43 Dofintionsof eimensional values (thicknesses, cross-sections, ol.) Definitions concerning the tests tage designations and materials. Rated voltages Insulating compounds. Sheathing compounds 5 Conductors 6 ins 6a 62 Material. Insulation thickness. 7 Assembly of multicore cables, inner coverings and filers.",
+    "page": 4
+  },
+  {
+    "text": "ial 72 73 8 Met 9 Mot aa 92 Inner coverings and filers CCablos with rated voltage 0,6/ (1.2) KY Cablos with rated voltage 1,819 (3.6) KY ali layers for single-core and multicore cab alle seroen Construction Requirements 40 Concentric conductor 10, 10 10. 1 Construction 2 Requiramants 3. Application. 11 Load sheath 12 Mat 12, 12. 12, 12, 12, 12, 2 alle armour. A. Typesof metallic armour. 2 Matera.",
+    "page": 4
+  },
+  {
+    "text": "3 Application of amour 4 Dimensions of the armour wires and armour tapes 5 Correlation between cable diameters ane armour dimensions 6 Roundor flat wire armour 7. Double tape armour 13. Oversneath,..",
+    "page": 4
+  },
+  {
+    "text": "13 8 19, 14 Tost conditions 14 14 14 SiR: He Sane Seal aOR a ketape EE Gone Sobre 1 General 2 Material 2 Thickness 1 Ambient temperature iss 2 Frequency and waveform of power frequencytest vollagos 3 Wavolorm of impulse test voltages sai Seats cares apsonam Peguenicenal caan Bien Tae aT Sea 1\u201c 18 16 19 19 19 2 a 23 25 25 25 25 25 29 29 at 3 33 95 38 35 38 38 38 38 38 37 3 a7 39 44 at 3 43 3 43 a) 45 45 45 45 45",
+    "page": 4
+  },
+  {
+    "text": "0502-1 \u00a9 1EC:2008 =s= 15 Routine tests 48.1 Gonerat. 182 Electrical resistance of conductors. 18.3 Voltage test 16 Sample tests 16.1. Gonoral 16.2 Frequencyof sample tests.",
+    "page": 5
+  },
+  {
+    "text": "16.3 Repetition oftests 16.4 Conductor examination 16.5 Measurementof thicknessof insulation and of non-metallic sheaths (including \u2018xttuded separation sheaths, bul excluding Inner extruded covetiNgS) xrccsnms 16.6 Measurement of thickness of load sheath 16.7 Measurement of armour wires and tapes.",
+    "page": 5
+  },
+  {
+    "text": "16.8 Moasuromentof external diameter 16.9 Hol set test for EPR, HEPR and XLPE insulalions and elastomeric sheaths.....55 17 Typo tosis, electrical... al 55 17.1. Insulation esistance measurement at ambient temperature... 57 17.2 Insulation osistance measurementat maximum conductor Lomperatur0.....n.u-87 47.3. Vollagetest for 4h...",
+    "page": 5
+  },
+  {
+    "text": "anh) 17.4 Impulse test for cablesof rated votag 188 (8.810 Eanes 59 18 Typo tests, non-olectrical forecuned 69 18.1.",
+    "page": 5
+  },
+  {
+    "text": "Measurement of thickness of insuatlon ev cel 18.2 Measurement of thickness of non-metallic shoaths (including extruded ration sheaths, but excluding innar coverings) 61 18.3 Tests for determining the mechanical properties of insulation bofore and ator ageing 6 184 Tests for dotermining the mochanical roped of nor alc sheaths before and alter ageing, mies Bune: 18.5 Additional ageing test on pieces of comploted cables...",
+    "page": 5
+  },
+  {
+    "text": "63 18.5 Loss of mass test on PVC sheaths of type ST2. 65 18.7. Prossuce test at high temperature on insulations and non-metallic sheaths. 65 18.8 Tost on PVC insulation and sheaths and halogen fe temporatures. 10.9. Tost for resistance of PVC insulation and sheaths to cracking heal shock ost) 18.10 0zone resistance test for EPR and HEPR insulation.",
+    "page": 5
+  },
+  {
+    "text": "18.11 Hot set test fr EPR, HEPR and XLPE insulations and elastomeric sheaths. 18.12011 immersion tost for elastomeric sheaths. 18.13 Water absorption test on insulation 18.14Feo tosis 18.15 Measuromont of carbon black contentof black PE oversheaths. 18.16 Shrinkage test for XLPE insulation.",
+    "page": 5
+  },
+  {
+    "text": "18.17 Special bonding test 18.18 Dotormination of hardness of HEPR insuation 18,19 Detormination of the elastic modulus of HEPR insulation, sheaths at low Seder ean\u2019 WPAN Tale eeoyto IES Cana, Sateen\u2018hiss eujos toa teeres egreenen Enqures to mat canheritecch- tat re4 228 GET",
+    "page": 5
+  },
+  {
+    "text": "60502-1 \u00a9 1E\u00a2:200\u00a2 18.20 Shrinkage test for PE oversheaths : 48.21 Adcitional mechanical tests on halogenfree vershealhs 18.22 Water absorption tet for halogen free oversheaths 19 Electrical tests after installation \u2018Annex A (normative) Fictitious calculation method for determination of dimes protective coverings \u20181 General \u201882 Method \u2018Annex B (normative) Rounding of numbers.",
+    "page": 6
+  },
+  {
+    "text": "8.4 Rounding of numbers for the purpose ofthe fictitious calculation mathod, 8.2 Rounding of numbers for other purposes. \u2018Annex C (normative) Determination of hardness of HEPR insulalions 1 Test pivco. C.2 Test procedure Figure C.1 ~ Test on surfaces of large radius of curvature Figure C.2.~ Test on surfaces of small radius of curvature Table 1 ~ Recommended rated voltages Un.",
+    "page": 6
+  },
+  {
+    "text": "Table 2 ~ Insulating compounds Tablo 3 ~ Maximum conductor temparatures for diferent types of insulating compound \u2018Table 4 ~ Maximum conductor temparatures for diferent types of sheathing compound.",
+    "page": 6
+  },
+  {
+    "text": "\u2018Table 5 ~ Nominal thickness of PVGIA insulation \u201cTabla 6 ~ Nominal thickness of cross-linked polyethylene (XLPE) Ineuation \u2018Table 7 ~ Nominal thickness of ethylene propylene rubber (EPR) and har \u2018ropylene rubber (HEPR) insulation. i \u2018Table 8 ~ Thickness of extruded inner covering.",
+    "page": 6
+  },
+  {
+    "text": "ethylene Table 9 - Nominal clameter of round armour wives Table 10 - Nominal thickness of armour tapes Table 11 ~ Routine test voltages \u2018 Table 12 ~ Number of samples or sample tosis Table 13 ~ Electrical type test cequirements for insulating compounds Toble 14 ~Non-electrical ype tests (see Tables 15 to 22) Tobl 15 Tet eaumons for machaiea characters of nang compounce (Wolore and ater ageing).",
+    "page": 6
+  },
+  {
+    "text": "\u2018Table 16 ~ Test requirements for parovlar characteristics for PVC insulating compound. Tati 7 - Test roquements for patel characteris of variostermoseting Insulating compounds Table 18 \u2014 Tast requ sents for mechanical characteristics of sheathing compounds (@elore and after ageing) 3 73 3 73 107 107 107 \u201d an on) 113 118 ey 23 28 25 27 ar 29 3t 4 4 49 st 75 7 79 8",
+    "page": 6
+  },
+  {
+    "text": "0502-1 \u00a9 1EC:2004 = atl 19 Test reaurementsfor parteular characterises for PVC sheathing \u2018compounds \u2018Table 20 ~ Test requirementsfor particular characteristicsof, tramoplste PE sheathing compounds. . \u2018Table 21~ Test requirements for particular characteristicsof toon fre seating \u2018compound.",
+    "page": 7
+  },
+  {
+    "text": "Tate 22 Tos roqutements fo: portzuar characterises of eastomore sheathing OMPOUNM 3 \u2018Table 23 - Test methods and requirements for halogen free compounds. sone 93 Table A.1 \u2014 Fictitious \u00a2iameter of conductor \u2018TableA2 ~ Assembly cootficient k for laid-up cores. . 99 Tabla A.3~ Increase of diamster for concentric canducters and matallic scx 101 \u2018TableA ~ Incraase af diameterfar additional bedding.",
+    "page": 7
+  },
+  {
+    "text": "ete",
+    "page": 7
+  },
+  {
+    "text": "60502-1 \u00a9 1EC:2004 -ti- 2} 3) 4) 5} 6) 7) 8) 9) INTERNATIONAL ELECTROTECHNICAL COMMISSION POWER CABLES WITH EXTRUDED INSULATION AND THEIR ACCESSORIES FOR RATED VOLTAGES FROM 1 kV (Um = 1,2 kV) UP TO 30 kV (Up, = 36 kV) - Part 1: Cables for rated voltages of 1 kV (Um = 1,2 KV) and 3 kV (U,, = 3,6 kV) FOREWORD The international Electrotechnical Commission (IEC) is a worldwide organizatlian for stancardization comprising all national electrotechnical committees (EC National Commiliees), The object of IEC is to promote inlernational co-operation on all questions conceming standardization in the electrical and electronic finids, To this end and in addition to other activities, IEC publishes International Standards, Technical Spacifications, Technical Reports, Publicly Available Specifications (PAS) and Guides (hereafter referred to as \"IEC Publication(s)\").",
+    "page": 8
+  },
+  {
+    "text": "Their preparation is entrusted to technical committees; any IEC National Committee interested in the subject dealt with may participate in this preparatory work. International, governmental and non- governmental organizations Gaising with ihe IEC also participate in this preparation.",
+    "page": 8
+  },
+  {
+    "text": "IEC collaborates closely with the Intemational Organization for Standardization (ISO) in accordance with canditions determined by agroament between the two organizations, The farmal cecisions or agreements of IEC on lechnical matters express, as nearly as possible, an international consensus Of opinion on the relevant subjects since each technical commities has representation from all interasted [EC National Committees, 1EC Publications have the form of racommendatians for international use and are accepled by IEC National Committees in hat sense.",
+    "page": 8
+  },
+  {
+    "text": "While all reasonable efforis are made to ensure that the tachnical content of IEC Publications is accurate, IEC cannot be held responsibte for the way in which they ore used or for any misinierpratation Sy any end user, in order to promote infernations! uniformity, IEC Natonal Committees undertake to apply IEC Publications transparently to ihe maximum extent possible in their national and regional publications.",
+    "page": 8
+  },
+  {
+    "text": "Any divergence between any IEC Publicalion and the corresponding national or regional publication shall be clearly indicated in Ine fatter IEC provales no marking procedure to indicate its approval and cannot be rendered responsible for any equipment declared to be in conformity with an [EG Publication All users should ensure thal they have the latest edition of this publication No ability shall attach to IEC ar its directors, employees, servants of agenis including individual \u00e9xperts and members of its technical committees and IEC National Committees for any personal injury, propery damage or olher damage of any nature whatsoever, whelher direct or indirect, or for costs (including legal fees) and expenses arising out of the publication, use of, or reliance upon, this IEC Publicalion of any other IEC Publications, Allention is crawn to the Normative references cited in this publication, Use of the referenced publications is indispensable for the correct application of this publication.",
+    "page": 8
+  },
+  {
+    "text": "Atlentian is drawn to the possibility that some of the elements of this IEC Publicatian may be the subject of patent rights. IEC shall not be held responsible far identifying any or all such patent rights. International Standard IEC 60502-1 has been prepared by IEC technical committee 20: Electric cables. This second edition cancels and replaces the first edition, published in 1997.",
+    "page": 8
+  },
+  {
+    "text": "its amendment 1 (1998) anc constitutes a technical revision. The main changes with respect to the first edition relate to insulation and oversheath thickness requirements, and inclusion of constructions and requirements for halogen free cables with reduced flame propagation and low levels of smoke emission. Customer: Metune! Derell - No. af User(s): 3 - Coenpany.",
+    "page": 8
+  },
+  {
+    "text": "2M KABLO LTD Ordar No.: V\u00e9S-2005-004603 - IMPORTANT: This Me is copyright af IEC, Geneva, Switzeriand, All nights reserved Ths file is subject ta a cence agreement. Enquiries to Email: custserwigioc. ch - T\u00e9l.: +41 22 919.02 1%",
+    "page": 8
+  },
+  {
+    "text": "0502-1 \u00a9 1EC:2004 == \u2018The tox ofthis standard is based on the folowing documents: 2aGbFOTS STIR Faull information on the voting for the approval ofthis standat\u00e9 can be found in the report on voling indicated in the above table, \u2018This publication has been drafted in accordance with the ISO/IEC Directives, Part 2 IEC 60802 consists of the following parts, under the goneral tile Power cables with extruded Insulation and their accessories for rated vollages from 1kV (Um = 1,2KV) up 10 20KV (Um= 36 KV): Port: Cables for rated voltagesof 1 KY (Up = 1,2 KY) and3 KV (Um = 26 KY): Part2: Cables for rated voltages from6 RV (Un = 7,2 KV)up to 30 KV (Up = 38 KV): Pans: Reserved! Part4: Test requirements on accessories for cables with rated voltages from 6 KY (Up = 7.2 KV) up to 30 kV (Up = 38 KV) The commiiee has decided that the contents of this publication will remain unchanged unt 2008.",
+    "page": 9
+  },
+  {
+    "text": "Al this dato, the publication wll be tocontirmed: + withdrawn: + replaced by a revised edition, oF \u2018menses, \u2018uepor Mabnat Dees Hol Us Company\u2018GeerRo: Weve 0603\" AIPGRTANT. Toe Theo sll teres spoamen Engen aE igh el EC, Gene na Suns.",
+    "page": 9
+  },
+  {
+    "text": "60502-1 \u00a9 IEC:2004 -15- POWER CABLES WITH EXTRUDED INSULATION AND THEIR ACCESSORIES FOR RATED VOLTAGES FROM 1 kV (Um = 1,2 KV) UP TO 30 KV (Um = 36 kV) \u2014 Part 1: Cables for rated voltages of 1 kV (Um = 1,2 kV) and 3 kV (Um = 3,6 kV) 1 Scope This part of IEC 60502 specifies the construction, dimensions and test requirements of power cables with extruded solid insulation for rated voltages of 1 kV (U,, = 1,2 kV) and 3 kV (U,, = 3,6 kV) for fixed installations such as distribution networks or industrial installations, This standard includes cables which exhibit properties of reduced flame spread, low levels of smoke emission and halogen-free gas emission when exposed to fire.",
+    "page": 10
+  },
+  {
+    "text": "Cables for special installation and service conditions are not included, for example cables for overhead networks, the mining industry, nuclear power plants (in and around the containment area), submarine use or shipboard application. 2 Normative references The following referenced documents are indispensable for the application of this document.",
+    "page": 10
+  },
+  {
+    "text": "For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.",
+    "page": 10
+  },
+  {
+    "text": "IEC 60038:1983, [EC standard voltages IEC 60060-1:1989, High-voltage test techniques \u2014 Part 1: General definitions and test requirements 1EC 60183;1984, Guide to the selection of high-voltage cables IEC 60228:1978, Conductors of insulated cables 1EC 60230:1966, Impulse tests on cables and their accessories 1EC 60332-1:1993, Tests on electric cables under fire conditions \u2014 Part 1;",
+    "page": 10
+  },
+  {
+    "text": "Test on a single vertical insulaled wire or cable 1EC 60332-3-24:2000, Tests on electric cables under fire conditions \u2014 Part 3-24: Test for vertical fame spread of vertically-mounted bunched wires or cables - Category C IEC 60502-2:1997, Power cables with extruded insulation and their accessories for railed voltages from 7 kV (Up, = 1,2 kV) up fo 30 KV (U,, = 36 kV) \u2014 Part 2: Cables for rated voltages from 6 kV (Up, = 7,2 kV) up to 30 KV (Uq = 36 KV) Custamer: Mehmet Orel \u00ab No.",
+    "page": 10
+  },
+  {
+    "text": "of Users)! 1-Company 2h KABLO LTD Order No.: WS-20054104603 - IMPORTANT: This fie is capyright af IEC, Genava. Switzerand. All nights reserved This fle & subject to a licence agreement. Enquiries 40 Email: custsersieo.ch - Tel; +41 22 919 02 11",
+    "page": 10
+  },
+  {
+    "text": "60502-1 \u00a9 IEC:2004 -17- IEC 60684-2:1987, Flexible insulating sleeving \u2014 Part 2: Methods of test IEC 60724:2000, Short-circuit temperature limits of electric cables with rated voltages of 1 kV (Um = 71,2 kV) and 3 kV (Uy, = 3,6 KV) IEC 60754-1:1994, Test on gases evolved during combustion of materials from cables \u2014 Part 1: Determination of the amount of halogen gas IEC 60754-2:1991, Test on gases evolved during combustion of electric cables \u2014 Part 2: Determination of degree of acidity of gases evalved during the combustion of materials taken from electric cables by measuring pH and conductivity 1EC 60811-1-1:1993, Common test methods for insulating and sheathing materials of electric cables \u2014 Part 1: Methods for general application \u2014 Section 1: Measurement of thickness and overall dimensions \u2014 Tests for determining the mechanical properties IEC 60811-1-2:1985, Common test methods for insulating and sheathing materials of electric cables = Part 1.",
+    "page": 11
+  },
+  {
+    "text": "Methods for general application \u2014 Section 2: Thermal ageing methods fEC 60811-1-3;1993, Common test methods for insulating and sheathing materials of electric cables ~ Part 1;",
+    "page": 11
+  },
+  {
+    "text": "Methods for general application \u2014 Section 3: Methods for determining the density \u2014 Water absorption tests \u2014 Shrinkage test IEC 60811-1-4:1985, Common test methods for insulating and sheathing materials of electric cables \u2014 Part 1;",
+    "page": 11
+  },
+  {
+    "text": "Methods for general application \u2014 Section 4: Tests at low temperature fEC 60841-2-1:1998, insulating and sheathing materials of electric and optical cables - Common test methods \u2014 Part 2-1; Methods specific to elastomeric compounds \u2014 Ozone resistance, hot set and mineral! oi! immersion tests IEC 60811-3-1:1985, Common fest methods for insulating and sheathing materials of electric cables \u2014 Part 3;",
+    "page": 11
+  },
+  {
+    "text": "Methods specific {a PVC compounds \u2014 Section 1; Pressure test at high femperature \u2014 Tests for resistance to cracking IEC 60811-3-2:1985, Common fest methods for insulating and sheathing materials of electric cables \u2014 Part 3;",
+    "page": 11
+  },
+  {
+    "text": "Methods specific to PVC compounds \u2014 Section 2: Loss of mass test \u2014 Therma! stability tes! IEC 60611-4-1:1985, Common test methods for Insulating and sheathing materials of electric cables \u2014 Part 4; Methods specific to polyethylene and polypropylene compounds \u2014 Section 7;",
+    "page": 11
+  },
+  {
+    "text": "Resistance to environmental stress cracking \u2014 Wrapping test after thermal ageing in air \u2014 Measurement of the melt flow index \u2014 Carbon black and/or mineral content measurement in PE IEC 61034-2;",
+    "page": 11
+  },
+  {
+    "text": "1997, Measurement of smoke density of cables burning under defined conditions ~ Part 2: Test procedure and requirements ISO 46:1994, Rubber, vulcanized or thermoplastic \u2014 Determination of hardness (hardness between 10 IRHD and 100 IRHD) Customer. Mehmet Derall - No. of User(s): + - Company: 2M KABLO LTD, Order No. V\u00e9S-2005-004803 \u00ab IMPORTANT: This fle is copyrightaf FEC, Geneva, Svatzerand.",
+    "page": 11
+  },
+  {
+    "text": "All nights reserved, This file is subject to & licence agreement. Enquirins to Email custsereimice.ch ~ Tel.: +4122 #1802 14 0502-1 \u00a9 IE\u00a2:2004 -19- 3. Terms and definitions For the purposes of this document, the following dott ns apply. 3.1.",
+    "page": 11
+  },
+  {
+    "text": "Definitions of dimensionat vaiuos (thicknesses, cross-sections, etc.) ata nominal value Value by which a quantity is designated and which is often used in tables NOTE Usa, hie stondard nominal valet give #01 values Lobe checes by eases taking into 3.12 approximate value value which is neither guaranteed nor checked: it is used, for example, for the caleuation of ther dimensional values 343 median value when several fost results have been obiained and ordorod in an increasing (or decreasing) \u2018succession, the median value is tho middle value ifthe number of available values Is od, and the mean ofthe two middle values if tho number is even 3A.8 fictitious value \u2018value calculated according to the \"feitious method\u201d described in Annex A 3.2 Definitions concerning the tests a4 foutine tests tests mado by tho manufacturer on each manufactured longth of cable to check that each length meotstho specified roquiromonts 32.2 \u2018sample tests tests mace by the manufacturer on samples of completed cable oF components taken from 2 Completed cable, at a specified trequoncy.",
+    "page": 12
+  },
+  {
+    "text": "so as (o verify thatthe finished procuct meets the spoctiog roquiromonts 22a type tests tests mado before supplying, on 9 goneral commercial basis, a type of cable covered by this standard, in order to demonstrate.",
+    "page": 12
+  },
+  {
+    "text": "satisfactory performance characteristics to meet the Intondos appiiation Nore \u2018Sonor 324 \u2018electrical tests after installation tests made to demonstrate the integrity of the cable and its accessories as installea the cable mao or doign gr manufacturing process whieh might shine tePartoemancs \u2018Steen\u2019 We atnsaoos MIORTANT rete apneEE Goo, 8 hao seta tercaapoomens Ehgunes El euseangiesen Ta",
+    "page": 12
+  },
+  {
+    "text": "60502-1 \u00a9 IEC;:2004 \u20142t- 4 Voltage designations and materials 4.1 Rated voltages The rated voltages Ug/U (U,,) of the cablas considered in this standard are 0,6/1 (1,2) kV and 1,6/3 (3,6) kV. NOTE 1 The voltages given above are the correct desigeatians although in some countries other designations are used, o.g. 1.7/3 KV or 1.8/3.3. KY instead of 1.8/3 kV.",
+    "page": 13
+  },
+  {
+    "text": "In the voltage designation of cables Up/U (Up): Up ts the rated power frequency voltage between conductor and earth or metallic screen for which the cable is designed; U is the rated power frequency voltage between conductors for which the cable is designed; Up, is the maximum value of the \u201chighest system voltage\" for which the equipment may be used (see IEC 60038).",
+    "page": 13
+  },
+  {
+    "text": "The rated voltage of the cable for a given application shall be suitable for the operating canditions in the system in which the cable is used, To facilitate the selection of the cable, systems are divided into three categories: ~ Category A: this category comprises those systems in which any phase conductor that comes in contact with earth or an earth conductor is disconnected from the system within 1 min;",
+    "page": 13
+  },
+  {
+    "text": "\u2014 Category B: this category comprises those systems which, under fault conditions, are operated for a short time with one phase earthed. This period, according to IEC 60183, should not exceed 1h. For cables covered by this standard, a longer period, not exceeding 8 h on any occasion, can be tolerated. The total Guration of earth faults in any year should not exceed 125 h;",
+    "page": 13
+  },
+  {
+    "text": "\u2014 Category C: this category comprises all systems which do not fall into category A or B. NOTE 2 |i shoulc be realized Ihat in a system where an earth fault ts not automatically anc promptly isolated, the extra stresses on the insulation of cables curing the earth fault reduce the life of the cables to a certain degree.",
+    "page": 13
+  },
+  {
+    "text": "I the system is expected fo be operated fairly often with a permanant earth fault, it may be acvisable to classify the system in Category C. The values of Ug recommended for cables to be used in three-phase systems are fisted in Table 1.",
+    "page": 13
+  },
+  {
+    "text": "Table 1 - Recommended rated voltages Up Highest system voltage Rated voltage (Uy) (U,,} kV KY Categories Aand B Category C 1.2 0.6 06 3.6 7,8 36\u00b0 \" This category is coverad by 3,6/6 (7,2) kV cables according ta IEC 60502-2. Custormor; Mehmet Deral \u00ab No. of User(s); 1 - Company: 2M KASLO LTO. Order No,: WS-2005-004603 ~ IMPORTANT: This fikt is copyright of IEC, Geonva, Swkzeriand.",
+    "page": 13
+  },
+  {
+    "text": "All rights reserved This tie Is subject te 3 licence agreement. Enquiries to Emal: custsernf\\each - Tal. +41 22 919.02 11 0502-1 \u00a9 1EC:2008 3 42.",
+    "page": 13
+  },
+  {
+    "text": "Insulating compounds: \u2018The types of insulating compound covered by this standard are listed in Table 2, together with how abbreviated designations, Table2 ~ Insulating compounds Potinyl elias inte to cabs wth ate vanes U/W 1.9 bY ucla tyne propylene rabber or simlae (CPM or POM) eR gk medal or ar race ctiyina popyiane reser HePR insisting camoound Based an otyan choise ended Tor eablas wit fated volages UU\u00bb S810 eagnataa PGI in ee 60502 \u2018The maximum conductor temperatures for diferent types of insulating compound covered by this standard are given in Table 3 Tablo 3 - Maximum conductor temperatures for different types of insulating compound me | shen = ee Cross-tinked polyethylene URLPE), 90 | 250 \u2018The tomperalures in Table 3 are based on the inrinsic properties of the Insulating matecal.",
+    "page": 14
+  },
+  {
+    "text": "t is important to take into account ather factors when using these values Tor the caleuiaion of \u2018eure ratings, For example, in normal operation, Wf @ cable directly buried in the ground is operated under Cantinuous lead (100 % load factor) at the maximum conductor temperature shown inthe table.",
+    "page": 14
+  },
+  {
+    "text": "the thermal resistivity of the soll surrounding the cable may, in the course of time, increase from its original valuo as a result of drying-out processes.",
+    "page": 14
+  },
+  {
+    "text": "As @ consequence, the conductor temperature may greatly exceed the maximum valve If such operating conditions are foreseen, Adequate provisions shall be made For quicance on the shor-cireult temperature, reference should be made to IEC 60724 See MeetNinO le anitES Goren Satreane Aes sane 60502-1 @ IEC:2004 =25- 43.",
+    "page": 14
+  },
+  {
+    "text": "Shoathing compounds \u2018The maximum conductor temperatures for the different types of sheathing compound covered by this standard are givon in Table 4 \u2018Table 4 Maximum conductor temperatures for different types of sheathing compound aximim conductor \u2018esignation ay Thermepiaie Pern ence (eve) st \u00bb st;",
+    "page": 15
+  },
+  {
+    "text": "0 Poiamane st 6 st % Hates toe sh cS Plehierproa,choresuanaos plyetytono se, cs 5 Conductors \u2018Tho conductors shall bo either of Class 1 or Class 2 of plain or metal-coated annealed copper ff of plain aluminium or aluminium alloy, or of Class\u2019 of plain or metal-coated copper in \u2018aecor\u00e9anco with IEC 60228.",
+    "page": 15
+  },
+  {
+    "text": "6 Insulation 6.1 Material \u2018The insulation shal be extruded dielectric of ane ofthe types listed in Table 2. For halogen free cables, the insulation shall meet the requitements given in Tabla 23, 62 Insulation thickness The nominal ulation thicknesses are specified in Tables 6 to 7 Tho thickness of any separator shall not be included in the thickness ofthe insulation.",
+    "page": 15
+  },
+  {
+    "text": "SrdeeNs Weatherektoas MAGA AhT thee ZopeTIES Gono, Swot. Al ots reser. Subs setts hencsapomon: Engeesta Ea eescogiscen Tae ASE SOUPS",
+    "page": 15
+  },
+  {
+    "text": "60502-1 & IEC:2004 -27- Table 5 \u2014 Nominal thickness of PVC/A insulation Nominal cross-sectional Nominal thickness of insulation at rated voltage area of conductor U,/U (U,) 0,6/1 (1,2) kV 1,8/3 (3,6) kV min mm mm 1.5 and 2,5 08 - 4and 6 1.0 - 10 and 16 1.0 2.2 25 anc 36 {2 2,2 50 and 70 14 2.2 95 and 120 1.6 2.2 150 16 2,2 185 2,0 2.2 240 2,2 2,2 200 24 24 400 2,6 2.6 500 to 6OD 2.8 2.6 1900 3,0 3,0 NCTE Any conductor cross-section smaller than those given in this table is not recommanded.",
+    "page": 16
+  },
+  {
+    "text": "Table 6 \u2014 Nominal thickness of cross-linked polyethylene (XLPE) insulation Nominal cross-sectional Nominal thickness of insulation at rated voltage area of conductor U,/U (U,,} 0.6/1 (1,2) kV 1,8/3 (3,6) kV men? mm mr 15 and 2,5 0,7 pe 4 and & 07 - 10 and 16 0,7 2,0 26 and 38 0,9 2,0 50 1,9 2,0 70 and 95 1,1 2,0 120 1,2 2.0 189 14 2,0 185 1,6 2,0 240 1,7 2,0 300 18 2.0 400 2,0 2.0 540 2,2 2.2 640 2.4 24 Ba0 2.6 2,6 14000 2,8 2,8 NOTE Any conductor cross-section smatier than those given in this table is nat recommended, Qustomer;",
+    "page": 16
+  },
+  {
+    "text": "Mehmet Derek - No. of User(s): 1 - Company: 2M KABLO LTD. Order No.: WWS-2005-004603 - IMPORTANT. This lile is copyright of IEC, Genova, Switzerland, All nights reserved. This fie is subject fo 4 licence agreernent Enquiries ip Emar: oustserv@iec.ch - Tol; +41 22 919.02 17",
+    "page": 16
+  },
+  {
+    "text": "0502-1 \u00a9 1EC:2008 -20- Table 7 - \u2018and hard ethylene propylen\u00ab Tomine eros sectional \u2018onal tekness of lnsulalon stated valoge \u2018re of eanauctor aya).",
+    "page": 17
+  },
+  {
+    "text": "oan aw T Ta RV F eR [oe WER ara 6 to on 2 0 za a 28 2a 00 2a ae ae 2a 7 Assembly of multicore cables, inner coverings and fillers \u2018The assembly of multicore cables depends on the rated voltage and whether a metalic layer is appliad to each core, The following subclauses 7.1 to 7.3 do not apply to assemblies of sheathed singla-care cables.",
+    "page": 17
+  },
+  {
+    "text": "TA Inner coverings and filers TAA Construction The inner coverings may be extruded or lapped. For cables with circular cores, except cables with more than five cores, a lapped inner covering Shall be permitted ony if the interstices between the cares are substantially filed \u2018A sullable binder is permitted before application of an extruded inner covering. usta tnt Daa Noo Us tc renSTS anes nas sas",
+    "page": 17
+  },
+  {
+    "text": "(60502-1 1EC:2004 2B 7A2 Material Tho materials used for inner coverings. and filers.",
+    "page": 18
+  },
+  {
+    "text": "shall be suitable for the operating lomporature of tho cablo and compatible with the insulating material For halogen tree cables, the Inner covering and fillers shall m Table 23 tthe requirements given in TAB Thickness of extruded inner covering \u2018The approximate thickness of extruded inner caverings shall be derived from Table8.",
+    "page": 18
+  },
+  {
+    "text": "Table 8 - Thickness of extruded inner covering Fietiousainmetor over asp ea Thies Rowe Up to and including (oopr 7.4.4 Thickness of lapped Innor coverings \u2018The approximate thickness of loppod innor coverings shall bo 0,4 mm for fictiious \u00a2lameters {vor laid-up cores up to and including 40 mm ana 0,8 mm for lager diameters 72.",
+    "page": 18
+  },
+  {
+    "text": "Cables with rated volt 190 0,641 (1.2) KV Cables with rated voltage 0,6/1(1,2) KV may have metallic ayer collectively surrounding the NOTE tho cleo batween cables navng ang calas not having e metale layer depends upon maton \u2018eaulons end nsalationraqrrons forth orevenon of posse dangos om Macha daage ot ert 7.2.4 Cables having a collective m yer (6 Clause 8) Cables shall have an inner covering ov {he laid-up cores.",
+    "page": 18
+  },
+  {
+    "text": "The inner covering and filers shall \u2018comply with 7.1 \u2018Metalic tapes may, however, be applied directly over the assembled cores, omilting the innor covering, provided that the nominal thickness of each tape doos not exceed 0.3 mm and that the completed cable complies with tho special bending tos specifiad in 15.17, \u2018See: Witstneacisen \u201cMPOATANT.",
+    "page": 18
+  },
+  {
+    "text": "Thole \u201ceappGCIEE Genoa Sulcus cass wane\u2018Tans sujeta Seance apronrun. Exguvies a Erveheustarvicecn Tak sat 2 010 Co tT",
+    "page": 18
+  },
+  {
+    "text": "60502-1 @ IEC:2004 ee 7.2.2 Cablos having no collective metallic layer(seo Clause8) The inner covering may be omitted, provided the ouler shape of the cable remains practically iulat and no adhesion occurs baleen cores and sheath, Tho ovorshoath may penetrate into the interstices of the cores, except in the case of \u2018thermoplastic overshoalhs over circular cores exceeding 10 mm2 1, howovor, an inner covering is applied, its thickness need not comply with 7.1.3 of 7.1.4.",
+    "page": 19
+  },
+  {
+    "text": "73 cat 3with rated voltage 1,813 (3,6) kV Cables with rated voltage 1.8/3 (3.6) KV shall havea m Individually or collectively lc layer surrounding the cores either 7.3.4 Cables having only a collectivematallic layer(see Clause 8) Cables shall ave an inner covering over the lald-up cores, The inner covering and fillers shall Comply with 7.1 and shall be non-hygrascopie.",
+    "page": 19
+  },
+  {
+    "text": "7.3.2 Cables havinga metallic layerover each Individualcore (soe Clause 9) \u2018The motalic layers of the individual cores shall be in contact with each other Cables with an additional collective metalic layer (see Clause8) of the same material as tho underiying ineivual metalic layers shall have an inner cavering over the laidup cores, The inner covering and filers shall comply with 7.1 and shall be nen-hygrescapic \u2018when the underying individual metalic layers and the collective metal layer are of alilforont materials, they shall be separated by an oxtruded shoath of one of the materals species in 19.2, For loud-shoathod cables, the separation from the underlying individual metalle layers may bo obtained by an inner covering according to 7-1 For cables having nelthor armour, nor concentric conductor.",
+    "page": 19
+  },
+  {
+    "text": "nor ether collective metalic layor (sc0 Clause 8). tho innor covering may be omitted, provided the outer shape of the cable Tomains practically circular. The oversheath may penetrate Into the interstices of the cores, \u2018oxcepl in the case of thermoplastic aversheaths over circular cores exceeding 10 mm?.",
+    "page": 19
+  },
+  {
+    "text": "I, hnowever, an inner covering is applied, ls thickness noed not comply wilh 7.1.3 oF 7.4.4 8 Motallic layers for single-core and multicore cables. \u2018The following types of metalic layers are included inthis standard 2} motallic screen (seo Clause 9}; 1) concentric conductor (see Clause 10);",
+    "page": 19
+  },
+  {
+    "text": "\u00a9) {ond sheath (soe Clause 11) 4) motaie armour (e00 Clause 12) silos spata eenceagommert Enauitastaknal eascengncch Yow We asaOeIT",
+    "page": 19
+  },
+  {
+    "text": "0502-1 \u00a9 1EC:2008 S355 \u2018Tho motalic layar{s) shall comprise one or more of the types listed above and shall be non- rmagnotic when appli to olthorsingle-coro cables or individual cares of multicore cabtos, 9 Metallic scroon 9.1 Construction \u2018The metalic screon shall consist of one or more tapes, oF a braid, ora concentric layer of wires \u2018Fa combinationof wires and tape(s) 1 may also bo 9 shoath or.",
+    "page": 20
+  },
+  {
+    "text": "in the case of a collective Screen, an armour which complios with 92. When choosing the material of the sereen, special consideration shall be given to tho possiblyof corrosion, not only for mechanical safelybut alsofor olocuical safety. \u2018Gaps in tho seroon shall comply with the national eguiaions andlor standards.",
+    "page": 20
+  },
+  {
+    "text": "92 Requi \u2018dimensional, physical and olectrical raquitemants of the metalic scraen shall be determined by national regulations andor standards, monte 10 Concentric conductor 10.41 Construction \u2018Gaps in the concentsle conductor shall comply wth national regulations andlor standards.",
+    "page": 20
+  },
+  {
+    "text": "When choosing the material of the concentric conductor special consideration shal be given to the possibly of corrosion, not only for mechanical safely but also for electrical satay. 10.2. Requirements. \u2018The dimensional and physical requirements of the concenitic conductor ane its electrical resistance shall bo dolorminedby nalional regulations andior standards. 10.3.",
+    "page": 20
+  },
+  {
+    "text": "Application \u2018When a concentric conductor is requited, it shall be applied over the innor covering in tho caso \u2018of mukicore cables.",
+    "page": 20
+  },
+  {
+    "text": "In the case of single:core cables, t shall be applied either directly oyor the Insulation or over a sultabio imor covering 11 Load sheath The sheath shall consist of lead or load allay and shall be applied as a reasonably tightsiting seamiess tubo, user: net Doo, of Ue Company: 2M KABLOLTD, Side Weeone wets: WORTANE Tine Recor oTIES Genece, Satoeand At seh era \u2018snl cubetion sence apconan Enya a ak cascovgiccee Yossi as Ua",
+    "page": 20
+  },
+  {
+    "text": "60502-1 @ 1EC:2004 -37- The nominal thickness shall be calculated using the following formula: a) for all single-core cables or assemblies thereof: top = 0,03 Dg + 0,8 b) for all cables with sector-shaped conductors: c} for all other cables: toy = 0,03 Dp + 0,7 where fob 18 the nominal thickness of lead sheath, in millimetres;",
+    "page": 21
+  },
+  {
+    "text": "Dg is the fictitious diameter under the lead sheath, in millimetres (rounded to the first decimal place in accordance with Annex B}, In all cases the smallest nominal thickness shall be 1.2 mm. Calculated values shall be rounded to the first decimal place (see Annex B). 12 Metallic armour 12.1 Types of metallic armour The armour types covered by this standard are as follows: a) flat wire armour;",
+    "page": 21
+  },
+  {
+    "text": "b) round wire armour; tc) double lape armour. NOTE For cables with raled voltage 0,6/1 (1,2) kV with conductor cross-sectional areas not exceeding 6 mm, galvanized steelwire braid armour may be provided bY agreement bLelween the manufacturer and the purchaser.",
+    "page": 21
+  },
+  {
+    "text": "12.2 Materials Round or flat wires shall be of galvanized steel, copper or tinned copper, aluminium or aluminium alloy, Tapes shall be of steel, galvanized steel, aluminium or aluminium alloy. Steel tapes shall be hot- or cold-rolled of commercial quality.",
+    "page": 21
+  },
+  {
+    "text": "In those cases where the steel armour wire layer is required to comply with a minimum conductance, it is permissible to include sufficient copper or tinned copper wires in the armour layer to ensure compliance.",
+    "page": 21
+  },
+  {
+    "text": "When choosing the material of the armour, special consideration shall be given to the possibility of corrosion, not only for mechanical safety, but also for electrical safety, especially when the armour is used as a screen. The armour of singie-core cables for use on a.c, systems shall consist of non-magnetic material, unless a special construction is chosen. Customer, Mehmat Darell - No.",
+    "page": 21
+  },
+  {
+    "text": "of Userts), 7 - Company: 264 KABLO LTD, Orvier No.: V'S-2005-004403 - IMPORTANT: This Ge is capyright af IEC, Geneva. Switzerand, All rights reserved Tie file is suhject ta a icence agreamont, Enquiries to Email: custserniec.ch - Tal,, +41 22 91902 11",
+    "page": 21
+  },
+  {
+    "text": "\u201860502-1 \u00a9 1EC:2004 39 42.3 Application of armour 423.1 Single-core cables In the caso Of single-core cables, an inner covering, extruded oF lapped, of the th spociied in 71.3 0\u00b07.1.8, shall be applied under the atmour.",
+    "page": 22
+  },
+  {
+    "text": "1232 Multicore cables Jn the case of multicore cables, the armour shall be applied on an inner covering complying with 7.1 exc09t for special applications using metalic tapes, see 7.2.1. 423.3.",
+    "page": 22
+  },
+  {
+    "text": "Soparation sheath \u2018When the underying metalic layer and the armour are of diferent materials, they shall be separated by an extruded sheath of oneof the materials specified In 13.2, For halogen fr Table 23, cables, the separation sheath (ST2) shall meet the requirements given in \u2018When an armour is required for a load-sheathed cable, it may be applied over a lapped bodding according to 12.5.4 Ia soparation shoath is used, it shall be applied under the armour instead of, oF in addition to, tha inner covering \u2018Tho nominal thickness of the separation sheath T, exprassed in milimettes shal be calculated by tho flloting formula To# 002.) +06 where Oy is the fictilovs dlametor under this sheath, in milimotes, calculated as descr Annex A \u00e9n \u2018The value resulting from the formula shall be rounded of to the nearest 0,1 mm (see Annex 8, For cables without a lead sheath, the nominal thickness shall be not less than 1,2 mm, For \u2018cables where the separation sheath is applied directly over the lead sheath, tho nominal thickness shall be not los than 1.0 mm.",
+    "page": 22
+  },
+  {
+    "text": "12.3.4 Lopped bedding under armour for lead-sheathed cable The lappad bedding applied to the compound coated lead sheath shall consist of cithar Impregnated and compounded paper tapes or a combination of two layers of impregnated and \u2018compounded paper tapes followed by one of more layers of compounded fibrous material. The imprognation of bedding material compounds.",
+    "page": 22
+  },
+  {
+    "text": "In case of wice arma may be made with bituminous or other preservative \u2018these Compounds shall nat be applied directly undor tho Synthetic tapes may be used instead of impregnated paper tapes. \u2018The total thickness of the lapped bedsing between the lead sheath and the amour after \u2018ppication ofthe armour shall have an approximate value of #,5 mm,",
+    "page": 22
+  },
+  {
+    "text": "60502-1 \u00ae IEC;2004 -41- 12.4 Dimensions of the armour wires and armour tapes The nominal dimensions of the armour wires and armour tapes shall preferably consist of one of the following values: Round wires: 0,8 \u2014- 1.25 \u2014 1,6 \u2014 2,0 \u2014 2,5 \u2014 3,15 mm diameter; Flat wires: 0,8 mm thickness; Tapes of steel: 0,2 -0,5 \u2014 0,8 mm thickness; Tapes of aluminium or aluminium alloy: 0,5 \u2014 0,8 mm thickness.",
+    "page": 23
+  },
+  {
+    "text": "12.5 Correlation between cable diameters and armour dimensions The nominal diameters of round armour wires and the nominal thicknesses of the armour tapes shall be not less than the values given in Tables 9 and 10, respectively.",
+    "page": 23
+  },
+  {
+    "text": "Table 9 \u2014 Nominal diameter of round armour wires Fictitious diameter under the armour Nominal diameter of armour wire Above Up to and Including mm mn mm - 10 a.8 10 15 1,25 15 25 1.6 25 35 2,0 35 60 2.5 60 ~ 3.15 Table 10 \u2014 Nominal thickness of armour tapes Fictitious diameter under the armour Nominal thickness of tape Above Up to and Including Steel or Aluminium or galvanized sicel aluminium alloy mm mm mm mm - Kit 0,2 as 30 70 0.5 a8 70 - 0.8 aw NOTE This table does nol apply to cables having metallic tapes applied directly over the assembled cores (see 7.2.4).",
+    "page": 23
+  },
+  {
+    "text": "For flat armour wires and fictitious diameters under the armour greater than 15 mm, the nominal thickness of the flat steel wire shall be 0.8 mm. Cables with fictitious diameters under the armour up to and including 15 mm shall not be armoured with flat wires, Customer, Mehme! Derel) - No. of User's): 3 \u00ab Cornpany: 20 KABLO LTD.",
+    "page": 23
+  },
+  {
+    "text": "Order No.: WS-2005-0044103 - IMPORTANT: This Se & capyright cf HEC, Genava, Swtzerand. All nghts resarvad This file '@ subject to 3 hoance snmement, Enquiries to Ernail: custservigiec.ch - Tel.: +41 2291902 11 60502-1 \u00a9 IEC:2004 \u2014 43 - 12.6 Round or flat wire armour The wire armour shall be closed, i.e. with a minimum gap between adjacent wires.",
+    "page": 23
+  },
+  {
+    "text": "An open helix consisting of galvanized steel tape with a nominal thickness of at least 0,3 mm may be provided over flat steel wire armour and over round steel wire armour, if necessary. Tolerances on this steel tape shall comply with 16.7.3. 12.7 Double tape armour When a tape armour and an inner covering as specified in 7.1 are used, the inner covering shall be reinforced by a taped bedding.",
+    "page": 24
+  },
+  {
+    "text": "The total thickness of the inner covering and the additional taped bedding shall be as given in 7.1 plus 0,5 mm if the armour tape thickness is 0,2 mm, and plus 0,8 mm if the armour tape thickness is more than 0,2 mm. The total thickness of the inner covering and the additional taped bedding shall be not less than these values by more than 0,2 mm with a tolerance of + 20 %.",
+    "page": 24
+  },
+  {
+    "text": "If a separation sheath is required or if the inner covering is extruded and satisfies the requirements of 12.3.3, the additional taped bedding is not required. The tape armour shall be applied helically in two layers so that the outer tape is approximately central over the gap of the inner tape. The gap between adjacent turns of each tape shall not exceed 50 % of the width of the tape.",
+    "page": 24
+  },
+  {
+    "text": "13 Oversheath 13.1 General All cables shall have an oversheath. The oversheath is normally black but a colour other than black may be provided by agreement between the manufacturer and the purchaser, subject to its suitability for the particular conditions under which the cable is to be used. NOTE A UV stability test is under consideration.",
+    "page": 24
+  },
+  {
+    "text": "13.2 Material The oversheath shall consist of a thermoplastic compound (PVC or polyethylene or halogen free) or an elastomeric compound (polychloroprene, chlorosulfonated polyethylene or similar polymers). Halogen free sheathing material shall be used on cables which exhibit properties of reduced flame spread, low levels of smoke emission and halogen free gas emission when exposed to fire.",
+    "page": 24
+  },
+  {
+    "text": "The oversheath (STg) of halogen free cables shall meet the requirements given in Table 23. The sheathing material shall be suitable for the operating temperature in accordance with Table 4. Chemical additives may be requested for use in the oversheath for special purposes, for example termite protection, but they should not include materials harmful to mankind and/or the environment.",
+    "page": 24
+  },
+  {
+    "text": "Customer: Mehmet Dereli - No. of User(s): 1 - Company: 2M KABLO LTD. Order No.: WS-2005-004603 - IMPORTANT: This file is copyright of IEC, Geneva, Switzerland. All rights reserved. This file is subject to a licence agreement. Enquiries to Email: custserv@iec.ch - Tel.: +41 22 919 02 114",
+    "page": 24
+  },
+  {
+    "text": "60502-1 \u00a9 |EC:2004 -45- NOTE Examples of materials\") considered to be undesirable Include: Addrin 1,2.3,4,10, 10-hexachloro-1 .4,4a,5,8 8a-hexahydro-1,4,5,8-dimethananaphthalene Dioldrin 1,2,3,4,10,10-hexachlore-6,7-epoxy-1,4,4a,5.6,7,8, Ba-octahydro-1,4.5,4-dimethanonaphihalene inda Gamma Isomer of 1,2,3,4,5.6-hoxachloro-cyciahexane.",
+    "page": 25
+  },
+  {
+    "text": "13.3 Thickness Unless otherwise specified, the nominal thickness {, expressed in millimetres shall be calculated using the following formula: t, = 0,035 D+ 1,0 where D is the fictitious diameter immediately under the oversheath, in millimetres (see Annex A). The value resulting from the formula shall be rounded off to the nearest 0,1 mm (see Annex 8).",
+    "page": 25
+  },
+  {
+    "text": "For unarmoured cables and cables with the oversheath not applied directly over the armour, metallic screen or concentric conductor, the nominal thickness shall be not less than 1,4 mm for single-core cables and 1,8 mm for multicore cables. For cables with the oversheath applied directly over the armour, metallic screen or concentric conductor, the nominal thickness shall be not less than 1,8 mm.",
+    "page": 25
+  },
+  {
+    "text": "14 Test conditions 14.1. Ambient temperature Unless otherwise specified in the details for the particular test. tests shall be made at an ambient temperature of (20 + 15) \u00b0C. 14.2 Frequency and waveform of power frequency test voltages The frequency of the alternating test voltages shall be in the range 49 Hz to 61Hz. The waveform shall be substantially sinusoidal.",
+    "page": 25
+  },
+  {
+    "text": "The values quoted are r.m.s, values. 14.3.",
+    "page": 25
+  },
+  {
+    "text": "Waveform of impulse test voltages In accordance wilh IEC 60230, the impulse wave shall have a virtual front time between 1 ys and 5s and a nominal time to half the peak value between 40 ps and 60 ps, and in other respects shall be in accarcance with IEC 60060-1, 15 Routine tests 15.1 General Routine tests are normally carried out on each manufactured length of cable (see 3.2.1).",
+    "page": 25
+  },
+  {
+    "text": "The number of lengths to be tested may, however, be reduced according to agreed quality control procedures. \"| Source: Dangerous propertios of industria! materials, N.1. Sax, {fh edilian, Van Nosirand Reerold, ISBN 0-442-27372-9, Customer, Metimet Derell - No. of Useris}: t - Company: 2M KABLO LTD Order No: W/5-2005-094603 - IMPORTANT: This file is copyright of IEC, Ganeva, Satizerland. AY rights.",
+    "page": 25
+  },
+  {
+    "text": "reserved This file is subyoct to a licence agreement, Enquines to Emal: custservepiec.ch - Tel: +44 22.919.02 41 0502-1 \u00a9 1EC:2004 =47~ 12 ullne tests required by this standard include: {2}, measurement ofthe electrical resistance of conductors (800 15.2); 1) voltage tost (see 15.3).",
+    "page": 25
+  },
+  {
+    "text": "152 et trical resistance of conductors: Resistance measuromonts shall be made on al conductors of each cable length submited to the routine tests, including the concentric conducter, if any.",
+    "page": 26
+  },
+  {
+    "text": "\u2018The complete cable longth, or 8 sample from it, shal be placed inthe test roam, which shall be maintained ot a reasonably constant tomperature, for at loust 12 h before the tos, In cate of \u2018doubt as to whether the conductor tomperalure is the samo as the room temperature, the \u2018esistance shall bo measured alter tho eablo has boon in th test room for 24h.",
+    "page": 26
+  },
+  {
+    "text": "Alternatively, the resistance can be measured on a sample of conductor conditioned for at loast 1h in @ temperature controlod quid bath, \u2018The measured value of resistanco shall be corected to a temperature of 20\u00b0C and 1 km length in accordance withthe formulao and factors given in IEC 60228, The 4.",
+    "page": 26
+  },
+  {
+    "text": "resistance of each conductor at 20\u00b0C shall not excved the appropriate maximum value specified in 1EC 60228. For concentric conductors, tho resistance shall comply with national regulations andtor standards. 153. Voltage te 1831.",
+    "page": 26
+  },
+  {
+    "text": "General \u2018The voliage test shall be mado at ambient temperature, using either alternating vollage at power frequency or direct vatage, altho manufacturer's option, 15.32 Test procedure for single-core cablos For single-core screened cables, the lost voltage shall be applied for min botwoen the Conductor and tho motalic screen Single-core unscreened cables shall be immersed in water at roam temperature for th and the test voage thon appliee for 5 min between the conductor and the water NOTE A spark test uncer coniteration fr sng: coe cables without any mts ayer 15.33 Tost procedure for multicore cables For multicore cables with indivisually screened core th tost voltage shall be applied for \u00a7 min bbetwon each conductor and the metalic ayer.",
+    "page": 26
+  },
+  {
+    "text": "For multicore cables without individually seraened cares, the test voltage shall be applied for Smin in succession between each insulates conductor and_all the other conductors and Collective metalic layers, it any.",
+    "page": 26
+  },
+  {
+    "text": "The conductors may be suitably connected for successive applications of the test voltage to limit the total testing time, provided that the sequence of connections ensures that the voltage is applied for at Teast 5 min without interruption belweon each conductor and each other Conductor and between each conductor and the metalic layers, if any.",
+    "page": 26
+  },
+  {
+    "text": "Alternatively, throe-core cables may bo tested in a single operation by using @ three-phase transformor Gert rm Oa Seerne ero fe Pengeef IE one, Garett Ateneo Shslct apetin\u00ae encsapeones Enprestonel caneiaceh Na sit ae OUST 60502-1 \u00a9 1E\u00a2:2008 49 1534 Test voltage Tho powor froquoncy test voltage shall be 2.5 Up +2 kV.",
+    "page": 26
+  },
+  {
+    "text": "Valuas of single-phase test voltages forthe slandard rated voltages are given in Table 11 Table 11 - Routine test voltages for throo-cora cables, the voltage testis cartied out with a tives-phase transformer, the test voltage between the phases shall be 1,73 times the values given inthis table, Whon 2 direct voltage is used, the applied voltage shall be 2.4 times the power frequency test velage: In all eases, the tast voltage shall be increased gradually to the specified valu, 18.3.8 Requiroment No breakdown ofthe insulation shall occur, 16 Sample tests 46.1.",
+    "page": 27
+  },
+  {
+    "text": "General Tho sample teste cequited by this standard include: 8) conductor examination (see 16.4) b) chock of dimensions(see 16.5 to 18.8) } ot sot test for EPR, HEPR and XLPE insulations and elastomeric sheaths (see 16.9) 16.2.",
+    "page": 27
+  },
+  {
+    "text": "Frequency of ample tests 16.21 Conductor examination and check ofdimensions Conductor examination, measurement of the thickness of insulation and sheath and measurement of the overall diameter shall be made on one length from each manufacturing Series of the same type and nominal cross-section of cable, bul shall be limited to nol more: than 10 % of the number of lengths in any contract 16.22 Physical toste Physical tosts shall be carried out on samples taken from manufactured cables according to \u2018agreed aualily control procedures.",
+    "page": 27
+  },
+  {
+    "text": "In the absence of such an agreement, for contracts where tho total length exceeds 2 km for multicore cables or4 km for singlo-core cables, lasts shall be \u2018on the basis of Table 12",
+    "page": 27
+  },
+  {
+    "text": "60502-1 \u00a9 IEC:2004 - \u00a71\u2014 Table 12 \u2014 Number of samples for sample tests Cable length Multicore cables Single-core cables Number of samples Above Up to and including Above Up to and including km km km km 2 10 4 20 t 10 20 20 40 20 4 40 60 atc atc.",
+    "page": 28
+  },
+  {
+    "text": "atc 16.3 Repetition of tests lf any sample fails in any of the tests in Clause 16, two further samples shall be taken from the same batch and submitted to the same test or tests in which the original sample failed. If both additional samples pass the tests. all the cables in the batch from which they were taken shall be regarded as complying with the requirements of this standard.",
+    "page": 28
+  },
+  {
+    "text": "If either of the additional samples fails, the batch from which they were taken shall be regarded as failing to comply. 16.4 Conductor examination Compliance with the requirements of IEC 60228 for conductor construction shall be checked by inspection and by measurement, when practicable.",
+    "page": 28
+  },
+  {
+    "text": "16.5 Measurement of thickness of insulation and of non-metallic sheaths (including extruded separation sheaths, but excluding Inner extruded coverings) 16.5.1 General The test method shall be in accordance with Clause 8 of IEC 60811-1-1.",
+    "page": 28
+  },
+  {
+    "text": "Each cable length selected for the test shall be represented by a piece of cable taken from one end after having discarded, if necessary, any portion which may have suffered damage.",
+    "page": 28
+  },
+  {
+    "text": "For cables having more than three cores with conductors of equal nominal cross-section, the number of cores on which the measurement is made shall be limited to either three cores or 10 % of the cores, whichever is larger.",
+    "page": 28
+  },
+  {
+    "text": "16.5.2 Requirements for the insulation For each piece of core, the average of the measured values, rounded to 0,1 mm in accordance with Annex B, shall be not less than the nominal thickness, and the smallest value measured shall not fall below 90 % of the nominal value by more than 0,1 mm, i.e.: fm 2 0,9t, \u2014 0,1 where fm is the minimum thickness, in millimetres;",
+    "page": 28
+  },
+  {
+    "text": "f, (8s the nominal thickness, in millimetres. Custemar: Mehmat Deret - No of User(s): 1 \u00abCompany: 2M KASLO LTO. Order No.: WS\u00bb2005-004603 - IMPORTANT; This fie is copyright of IEC, Genes, Switzertand, All rights reserved This fe & subject to a licance agement Enquiries to Ema; custsernitiecch + Tal.: +41 22 919 02 11",
+    "page": 28
+  },
+  {
+    "text": "0502-1 \u00a9 0:2004 53 16.5.3 Requirements for non-metallic shoaths The piece of sheath shall comply with tho following 2) for unarmoured cables and cables with an oversheath not applid viectly over armour, \u2018metallic sereen oF concentric conductor, the smallest valuo measured shall ot fall Below \u00a335 % of the nominal value by moro than 0,1 mm, 2 0.851,~ 0,1 ') foran overshoath applied diectly over armour, matali scroon oF concentec conductor, and for a separation shooth, tho smallest measured valuo shall not fall Dolow 80% of the Nominal value by more than 0,2 mm, Lo.",
+    "page": 29
+  },
+  {
+    "text": "tm 2 0,8 ~ 0,2 16.6 Measurement of thicknoss of load sheath The minimum thickness of tho lead sheath shall be determined by one of the following \u2018mathods, at the discretion of the manufacturer, and shall aot fall below 95 % of the nominal Valuo by more than 0.1 mm, 20.95% - 0.4 166.",
+    "page": 29
+  },
+  {
+    "text": "Strip method \u2018The measurement shall bo made with @ micrometer with plane faces of 4 mm to 8 mm elamotor and an accuracy of 0,01 mm. Tho measurement shall be mada en a test piece of sheath about 50 mm in length, removed from the completed eable, The piece shall be sit Iongludinally and carefuly flattened. After tlezning the test piece, a sufficient number of measuromonts shall bo made.",
+    "page": 29
+  },
+  {
+    "text": "along the fircumference of tho shoath and not fess than 10 mm away fom the edge of the fattened plece to ensure thal the minimum thicknoss is measured 16.6.2 Ring method \u2018The measuramants shall be made with a micrometer having ether one fat nose and one ball \u2018ose, oF one flat nose and a flat rectangular nose 0,8 mm wide and 2.4 mm long.",
+    "page": 29
+  },
+  {
+    "text": "The ball nose fr the flat rectangular nose shall be applied to Une inside of tho ring. The accuracy of the \u2018micrometer shall be 2,01 mon The measurements shall be mado on a ring of the sheath carefully cut from the sample. Tho thickness shall be determined at a suficiont numbor of points around the circumference af the ring fo ensure thatthe minimum thickness is measured 416.7.",
+    "page": 29
+  },
+  {
+    "text": "Measurement of armour wires and tapes 16.71 Measurementon wires \u2018Tho diamoter of round wires and the thickness af flat wires shall bo measured by means of a \u2018micrometer having two flat nesos to an accuracyof 20,01 mm.",
+    "page": 29
+  },
+  {
+    "text": "For round wires, two measute- \u2018ents shall be made at right angles to each ethorat the same position and the average of the \u2018a valuss taken as the diameter, \u2018histits suena teense agreoront Enqures oral aaiseviincan: Yel\" sat 9201800",
+    "page": 29
+  },
+  {
+    "text": "60502-1 @ IEC:2004 - 55 - 16.7.2 Measurement on tapes The measurement shall be made with a micrometer having two flat noses of approximately 5 mm in diameter to an accuracy of +0,01 mm. For tapes up to 40 mm in width, the thickness shall be measured at the centre of the width.",
+    "page": 30
+  },
+  {
+    "text": "For wider tapes the measurements shall be made 20 mm from each edge of the tape and the average of the results taken as the thickness. 16.7.3. Requirements The dimensions of armour wires and tapes shall! not fall below the nominal values given in 12.5 by more than; \u2014 5% for round wires; \u2014 8 % for flat wires; \u2014 10 % for tapes.",
+    "page": 30
+  },
+  {
+    "text": "16.8 Measurement of external diameter if the measurement of the external diameter of the cable is required as a sample test, it shall be carried out in accordance with Clause 8 of IEC 60814-1-1.",
+    "page": 30
+  },
+  {
+    "text": "16.9 Hot set test for EPR, HEPR and XLPE insulations and elastomeric sheaths 16.9.1 Procedure The sampling anc test procedure shall be carried out in accordance with Clause 9 of IEC 60811-2-1, employing the conditions given in Tables 17 and 22. 16.9.2 Requirements The test results shall comply with the requirements given in Table 17 for EPR, HEPR and XLPE insulations, and in Table 22 for SE;",
+    "page": 30
+  },
+  {
+    "text": "sheaths. 17 Type tests, electrical A sample of completed cable, 10 m to 15 m in length, shall be subjected to the following tests, applied successively: a) insulation resistance measurement at ambient temperature (see 17.1); b) insulation resistance measurement al maximum conductor temperature in normal operation {see 17,2); c) voltage test for 4h (see 17.3).",
+    "page": 30
+  },
+  {
+    "text": "Cables of rated voltage 1,8/3 (3,6) kV shall also be subjected to an impulse test on a separate sample of completed cable, 10 m to 15 m in length (see 17.4). The tests shall be limited to not more than three cores. Customer Mehmet Derali - No, of User(s): t - Company: 2M KABLO LTD. Onter No.",
+    "page": 30
+  },
+  {
+    "text": "W/S-2005-004650G - IMPORTANT: Thia file is cupynght af IEC, Garava, Switzeriand, All nonts reserved This file is subject to a icence agroemant Enquiries to Email: custeerviiiec.ch - Tel: +41 22 919 02 11 60502-1 @ 1EC:2004 - 57 - 17.1 Insulation resistance measurement at ambient temperature 17.1.1 Procedure This test shall be made on the sample length before any other electrical test.",
+    "page": 30
+  },
+  {
+    "text": "All outer coverings shall be removed and the cores shall be immersed in water at ambient temperature for at least 1 h before the test. The d.c. test voltage shall be between 80 V and 500 V and shall be applied for sufficient time to reach a reasonably steady measurement, but in any case for nol less than 1 min and not more than 5 min.",
+    "page": 31
+  },
+  {
+    "text": "The measurement shall be made between each conductor and the water. if requested, measurement may be confirmed at a temperature of (20 + 1) \u00b0C, 17.1.2 Calculations The volume resistivity shall be calculated from the measured insulation resistance by the following formula: 2xnx/ixR D Ing p= where p is the volume resistivity, in ohms - centimetres; Ris the measured insulation resistance, in ohms;",
+    "page": 31
+  },
+  {
+    "text": "/ is the length of the cable, in centimetres; Dis the outer diameter of the insulation, in millimetres; dis the inner diameter of the insulation, in millimetres. The \u201cinsulation resistance constant Kj\" expressed in megohms.",
+    "page": 31
+  },
+  {
+    "text": "kilometres may also be calculated, using the formula: _IxRxio\" K,= D logs =107'' \u00ab0,367 x p NOTE far the cores of shaped conductors, the ratio Dd is the ratio of the perimeter over the insulation to the penmeter over the conductor, 17.1.3. Requirements The values calculated from the measurements shall be not less than those specified in Table 13.",
+    "page": 31
+  },
+  {
+    "text": "17.2 Insulation resistance measurement at maximum conductor temperature 17.2.1 Procedure The cores of the cable sample shall be immersed in water at a temperature within +2 \u00b0C of the maximum conductor temperature in normal operation for at least 1h before the test.",
+    "page": 31
+  },
+  {
+    "text": "Custorner: Mehmet Derall- No, of User(s}: 1 - Company: 2M KABLO LTD Order Noo WS-2005-004604 - IMPORTANT: This file & copynght of IEC, Ganeva, Saitzedandt. All nights reserved This file is subject to 2 licence agrooment Enquiries ta Email: custserv@iec.ch - Tal. +41 229719 02 11 60502-1 \u00a9 1EC:2008 =50- \u2018The d.c.",
+    "page": 31
+  },
+  {
+    "text": "test voltage shall bo 80 V to 00 V and shal be applied for sutficiont time to reach 2 reasonably stoady moasuromont. but in any case for not less than + min and not more thon Smin \u2018The measuroment shall be made between each conductor and the water.",
+    "page": 32
+  },
+  {
+    "text": "17.22 Calculations The volume resistivity andlor the insulation resistance constant shall be calculated from the Insulation resistance By the formulae givan in 17.1.2 17.23. Requirements The values calculated from the measurements shall be not less than those specified in Table 13. 173.",
+    "page": 32
+  },
+  {
+    "text": "Voltagetost for 4h 1731 Procedure The cores of the cable sample shall be immersed in water at ambient temperature for al \u2018Th botore the test. [A powar frequancy voltage equal to 4 Up shall then be gradually applied and maintained \u2018continuously for4 n botwoan each conductor and the water, 17.32.",
+    "page": 32
+  },
+  {
+    "text": "Requirements No breakdown ofthe insulation shall occur 17.4 Impulse test for cat of rated voltage 1,8/3 (8,6) kV 1741 Procedure This test shall be performed on the sample at a conductor temperature between \u00a7 \u00b0C and 10\u00b0C above the maximum conductor temperature in normal operation \u2018The impulse voltage shall be appied according tothe procedure given in IEC 60230 and shall hhave a peak valuo of 40 kV.",
+    "page": 32
+  },
+  {
+    "text": "For multicore cables in which tho cores are not individually seroanad, each series of impulses \u2018hall be applid in turn botwaen each phase conductor and all tho other conductors connects fogether and to oarth. 17.42 Requirements Each core of the cable shall withstand, without failure, 10 positive and 10 negative voltage impulses.",
+    "page": 32
+  },
+  {
+    "text": "18 Type tests, non: trical \u201cThe non-electrical type tosts requiredby this standard are given in Tablo 14, \u2018See: wsaaoracteny WHOAAN: Tate apy ngCe EE Gene: Scand Ares serveTottes smolts eareoupoarn EnguestoE mt toeangiccoy Ta At a8 OS 60502-1 \u00a9 1EC-2008 =61- 18.1. Measurement of thickness of insulation 48.4.1. Sampling \u2018One sample shal be taken from each insulated cable car.",
+    "page": 32
+  },
+  {
+    "text": "For cables having more than theeo cores with conductorsof equal nominal cross-section, the fnumbor of cores on whieh tho measurement is mage shail be limited to ether three cores 0F 10 % ofthe eaves, whichover Is larger 18.12 Procedure Tho moasuroments shall be made as deserbod in 8.1 of EC 60811-1-1 18.1.8 Requirements See 10.5.2 418.2 Measurement of thickness of non-motallic sheaths (including extruded separation sheaths, but excluding inner coverings) 48.21 Sampling \u2018One sample of cable shall be taken.",
+    "page": 33
+  },
+  {
+    "text": "18.22 Procedure \u2018Tho moasuremontsshall be made 0s described in 8.2 of IEC 60811-1-1 18.23 Requirements S00 16.553. 18.3. Tosts for determining the mechanical properties of insulation before and after ageing 4834.",
+    "page": 33
+  },
+  {
+    "text": "Sampling Sampiing and the preparation of the test pieces shall be carried out as described in 9.1 of lec \u00e9oat 1-1 18.3.2 Ageing treatments \u2018The ageing treatments shall be carriod out as described in 8,1 of IEC 60811-1-2 under tho condilions specified in Table 15, \u2018The tensile and bending tests after agoing with the copper conductor of Table 16 are only applicable to 0,6/1(1.2)KV cables.",
+    "page": 33
+  },
+  {
+    "text": "The bending test is only carried out on those cables for \u2018which the insulation cannot bo subjected to tho tensile test.",
+    "page": 33
+  },
+  {
+    "text": "NOTE The tose and bending texts, cated out ater agning In tho resence of = cor (ecormended: Howser, autho! nermation hes bath ane1 cate mate Thos og \u2018steal by agreomont betwen he putchaset an ha menutctute 4833 Conditioning and mochanical tests Conuitioning and the measurement of mechanical properties shall be caried out as described in9.t of EC Goat 1-1 Enza vente .",
+    "page": 33
+  },
+  {
+    "text": "60502-1 \u00a9 1EC:2004 ~ 63 - 18.3.4 Requirements The test results for aged and unaged test pieces shall comply with the requirements given in Table 15. 18.4 Tests for determining the mechanical properties of non-metallic sheaths before and after ageing 18.4.1 Sampling Sampling and the preparation of the test pieces shall be carried out as described in 9.2 of lEC 60811-1-1.",
+    "page": 34
+  },
+  {
+    "text": "18.4.2 Ageing treatments The ageing treatments shall be carried oul as described in 8.1 of IEC 60811-1-2, under the conditions specified in Table 18, 18.4.3 Conditioning and mechanical tests Conditioning and the measurement of mechanical properties shall be carried out as described in 9.2 of IEC 60811-1-1, 18.4.4 Requirements The test resulls for aged and unaged lest pieces shall comply with the requirements given in Table 18.",
+    "page": 34
+  },
+  {
+    "text": "18.5 Additional ageing test on pieces of completed cables 18.5.1 General This test is intended to check that the insulation and non-metallic sheaths are not liable to deteriorate in operation due to contact with other components in the cable- The test is applicable to cables of all types, 18.5.2 Sampling Samples shall be taken from the completed cable as described in 8.1.4 of IEC 60811-1-2, 18.5.3 Ageing treatment The ageing treatment of the pieces of cable shall be carried out in an air oven, as described in 8.1.4 of IEC 60811-1-2, under the following conditions: \u2014 temperature: (10 = 2) \u00b0C above the maximum conductor temperature of the cable in normal operation (see Table 15);",
+    "page": 34
+  },
+  {
+    "text": "\u2014 Guration: 7 x 24h. 18.5.4 Mechanical tests Test pieces of insulation and oversheath from the aged pieces of cable shall be prepared and subjacted to mechanical tests as described in 8.1.4 of IEC 60811-1-2. Custamer: Mehimal Dereli - No. of User(s): 1 - Company. 2M KABLO LTD, Order No,: 'WS-2005-004603 - IMPORTANT: This tie is copyright of IEC, Genava, Switzeriand. All rights reserved.",
+    "page": 34
+  },
+  {
+    "text": "The fle & subject toa loarice agreement. Enquiries to Email: cusisenicc.ch - Tel.) +4122 919802 11",
+    "page": 34
+  },
+  {
+    "text": "0502-1 \u00a9 1EC:2008 ~65- 18.55 Requirements The variations between the median values of tensile strength and elongation-at-break ator \u2018going and the corresponding values obiained without agoing (eee 18.3 and 18.4) shall not \u2018xcead the values applying to the test after agoing in an air oven spociiod in Table15 for Inoulations, and Table 18 for non-metallic sheaths, 18.6 Loss of mass test on PVC sheaths of type ST2 1864 Procedure \u2018The sampling and test procedure shall be in accordance with 8.2 of IEC 60811-2-2.",
+    "page": 35
+  },
+  {
+    "text": "18.62. Roquiroments \u2018Tho toot results shall comply with the raquirements given in Table 19, 18.7 Prossure te at high temperature on insulations and non-metallic sheaths 18.71 Procedure \u201cThe pressure test at high temperature shall be carted out in accordance with Clause 8 of IEC 6081 1-3-1, employing the test conditions given in the test methad and in Tables 16 and 20.",
+    "page": 35
+  },
+  {
+    "text": "18.72 Requirements Tho test resuits shall comply withthe requirements given in Clause 8 of IEC 60811-2-1 408 Te a t on PVC Insulation and sheaths and halogen free sheaths at low temperatures Procedure The sampling and tost procedures shall be in accordance with Clause 8 of IEC 60811.",
+    "page": 35
+  },
+  {
+    "text": "\u2018employing the test temperature specified in Tables 16, 19 and 21 18.82 Requirements \u2018The results of tho test shall comply with the requirements given in Clause 6 of IEC 60811-1-4 18.9.",
+    "page": 35
+  },
+  {
+    "text": "Tost for resistance of PVC insulation and sheaths to cracking (heat shock test) 4 Procedure \u2018The sampling and test procedure shall be in accordance with Clause 9 of IEC 60811-3-1, tho test temporature and duration being in accordance with Tables 16 and 19, 18.92 Requiroments The rosuls ofthe tests shall comply with the requirements given in Clause 8 of IEC 60B11-3-1, Sie Ne eneeSeatanSRA Tale Cece Ge NICE Cone, Suizetand Anos rearedThos sojextoatourcewerent Enquieaslo Emat cusmervgicesn Ya eet se OST",
+    "page": 35
+  },
+  {
+    "text": "0502-1 \u00a9 1EC:2008 -6r- 18.10 Ozone resistance test for EPR and HEPR insulations 18:10.1 Procedure \u2018The sampling and tost procedure shall be carried out in accordance with Clause 8 of 1EC 60831-2-1, The ozone concentiation and lest duration shall be in accordanco with Tablo 17 18.0.2 Requirements \u2018Tho results ofthe tot shall comply with the requirements given in Clause @ of IEC 60811-2+4 18.11 Hot sot test for EPR, HEPR and XLPE insulations and el romaric sheaths Tho sampling and test procedure shall be carried out in accordance with 16,9 and shall comply with ts requirements.",
+    "page": 36
+  },
+  {
+    "text": "46.12 Ol immersion test for: 18.2.1 Procedure Tho sampling and test procedure shall be carried out in accordance with Clause 10 of TEC 60811-2-1, employing the conaitions given in Table 22. 1812.2 Requirements \u2018The results ofthe tos shall comply with th \u2018equirements given in Table 22.",
+    "page": 36
+  },
+  {
+    "text": "18.13, Water absorption test on insulation 18.3.1 Procedure \u2018The sampling and test procedure shall be carried out in accordance with 9.1 oF 9.2 of IEC 60811-1-3, employing the conditions specified In Tables 16 oF 17, respectively. 1819.2 Requirements Tho results ef tho test shall comply with the requirements specifi in 9.1 of IEC 60811-1-9 or \u2018Tabla 17, respectively 18.14 Fire tosts 18.14.1.",
+    "page": 36
+  },
+  {
+    "text": "Flame sproad test on single cables \u2018This tost shall be carried out on ST;, STo, oF SE; oversheathed cables only when specially required. \u2018The test method and requirements shall be those speci 1 in FEC 60332-4 18:18.2 Flame spread test on bunched cables \u2018This test shall be carried out on STg oversheathed halogen fre cables.",
+    "page": 36
+  },
+  {
+    "text": "\u2018The test method and requirements shall be those specified in IEC 60592-9-24. reat ne congny HAROLD. Shes ster oa wees opeorent Erquras tomar easeerise on: Te Ais ns 0502-1 \u00a9 1E0:2004 ~69- 18.14.3. Smoke emission test \u2018This lost shall be carried out on STs oversheathed halogen froo cables. \u2018Tho tost mothod and requirements shallbe thase specified in IEC 61094.2.",
+    "page": 36
+  },
+  {
+    "text": "18.14.4 Acid gas emission tost This tost shall bo carried out on the non-metalic components of STs ovorsheathed halogen too cables. 1814.44 Procedure The test method shall be that specified in IEC 60754-1. 14.4.2. Requirements Tho results of the test shall comply wth the requirements of Table 23.",
+    "page": 37
+  },
+  {
+    "text": "1814.5 pH and conductivity test \u201cThis {ost shall be carried out on the non-metallic components of STy oversheathed halogen {00 cabs. 18.145.1. Procedure \u2018The tost method shall be that specified in IEC 60754. 18.1452. Requirements \u201cTho rosults of tho tst shall comply withthe requirements of Tablo 23 10.14.",
+    "page": 37
+  },
+  {
+    "text": "Fluorine content test his ast shall be carried out on the non-metallic components of STy oversheathed halogen feoo cables, 18.146. Procedure \u2018Tho tost mothod shall be that specified in IEC 60684-2, 4 4.6.2 Requirements \u2018Tho rosults ofthe test shall comply withthe requirements of Table 2. 18.147 Toxicity test Under consideration, NOTE Atest method i underdevelopmentwitin EC 18.15.",
+    "page": 37
+  },
+  {
+    "text": "Measurement of carbon black content of black PE oversheaths 18.154 Procedure The sampling and tost procedure shall be carried out in accordance with Clause 11 of EC 6081-41. See Ue Sasaki Take entIE ona, Satoetand At",
+    "page": 37
+  },
+  {
+    "text": "60502-1 \u00a9 IEC;2004 ~7i- 18.15.2 Requirements The results of the test shall comply with the requirements of Table 20, 18.16 Shrinkage test for XLPE insulation 18.16.1 Procedure The sampling and test procedure shall be carried out in accordance with Clause 10 of tEC 60811-1-3 under the conditions specified in Table 17.",
+    "page": 38
+  },
+  {
+    "text": "18.16.2 Requirements The results of the test shall comply with the requirements of Table 17. 18.17 Special bending test This test shall be made on multicore cables with rated voltage 0,6/1 (1,2) kV, having a collective metallic layer in the form of metallic tapes applied directly over the assembled cores and omitting the inner covering.",
+    "page": 38
+  },
+  {
+    "text": "18.17.41 Procedure The sample shall be bent around a test cylinder (for example, the hub of a drum) at ambient temperature for at least one complete turn. The diameter of the cylinder shall be 7D + 5% where D is the actual external diameter of the cable sample. The cable shall than be unwound and the process shall be repeated except that the bending of the sample shall be in the reverse direction.",
+    "page": 38
+  },
+  {
+    "text": "This cycle of operations shall be carried out three times. The sample, left bent around the cylinder shall then be placed in an air oven heated to the maximum conductor temperature in normal operation of the cable for 24 h. After the cable has cocled down, and while it is still bent, the voltage test shall be carried out in accordance wilh 15.3.",
+    "page": 38
+  },
+  {
+    "text": "18.17.2 Requirements No breakdown shall occur and the oversheath shall show no sign of cracking. 18.18 Determination of hardness of HEPR insulation 18.18.1 Procedure The sampling and test procedure shall be carried out in accordance with Annex C. 18.18.2 Requirements The results of the lest shall comply with the requirements of Table 17.",
+    "page": 38
+  },
+  {
+    "text": "18.19 Determination of the elastic modulus of HEPR insulation 18.19.1 Procedure Sampling, preparation of the test pieces and the test procedure shall be carried out in accordance with Clause 9 of IEC 60811-1-1. Cuslomer; Mehmet Dereli-No, of User(s): 1 \u00ab Campany: 2M KABLO LTD Order No. WS-2005-DO48)3 - IMPORTANT: This file is comynght of IEC, Geneva, Sailtzeriand.",
+    "page": 38
+  },
+  {
+    "text": "All ignts reserved This fie is subject to a licenoe agroement. Enquines to Emalt custsorvediec.ch - Tel. +41 22 419 02 11 60502-1 \u00a9 IEC:2004 -~73- The loads required for 750 % elongation shall be measured.",
+    "page": 38
+  },
+  {
+    "text": "The corresponding stresses shall be calculated by Gividing the loads measured by the cross-sectional areas of the unstretched test pieces, The ratios of the stresses to strains shall be determined to obtain the elastic moduli at 150 % elongation. The elastic modulus shall be the median value.",
+    "page": 39
+  },
+  {
+    "text": "18.19.2 Requirements The results of the test shall comply with the requirements of Table 17, 18.20 Shrinkage test for PE oversheaths 18.20.1 Procedure The sampling and test procedure shall be carried oul in accordance with Clause 11 of IEC 60811-1-3 under the conditions specified in Table 20. 18.20.2 Requirements The results of the lest shall comply with the requirements of Table 20.",
+    "page": 39
+  },
+  {
+    "text": "NOTE For halogen free oversheaths, the test mothod is under consiceration. 18.21 Additional mechanical tests on halogen free oversheaths These tests are intended to check that the halogen free oversheaths are nol liable to damage during installation and operation. NOTE Abrasion, tear resistance and heat shock tests are under consideration.",
+    "page": 39
+  },
+  {
+    "text": "18.22 Water absorption test for halogen free oversheaths 18.22.1 Procedure The sampling and test procedure shall be carried out in accordance with 9.2 of IEC 60811-1-3 employing the condilions specified in Table 21, 18.22.2 Requirements The results of the test shall comply with the requirements of Table 21, 19 Electrical tests after installation Tests after installation are made, if required, when the installation of the cable and its accessories has been completed.",
+    "page": 39
+  },
+  {
+    "text": "A d.c, vollage equal to 4 Up shall be applied for 15 min. NOTE Electrical tests on repaired installations are subject to installation requirements. The above test is for new installations only. Customer: Mehmet Dere) ~ No. of User(s): 1 - Company: 2M KABLO LTD. Order Na.: 'WS-2005-004603 \u00ab IMPORTANT, This file is copyright of IEC, Gennva, Switzerland, All nights reserved.",
+    "page": 39
+  },
+  {
+    "text": "This fle = subject to & lence agrenmoent. Enquiries to Emal: cusiservitec ch - Tal. #41 2291902 11",
+    "page": 39
+  },
+  {
+    "text": "60502-1 \u00a9 IEC:2004 -75\u2014- Table 13 \u2014 Electrical type test requirements for insulating compounds Designation of compounds Unit PYCIA EPR/ XLPE (seo 4.2) HEPR Maximum conductor temperature in normal operation \u00b0c 70 30 90 (see 4,2) Vatume resistivity p \u2014 at 20\u00b0C {see 17.1) it-om rats - - \u2014 al maximum conductor temperature in normal operatian Qom 10te 10\" 10! [see 17.2) Insulation resistance constant K, \u2014 at 20 \"C (see 17,1) Ma-km 36,7 ~ - \u2014 af maximum comductor temperature in normal operation | MQ-km 0,037 3.67 3,67 (seo 17,2) Customer: Mehmet Derall ~ No, of User(s}.",
+    "page": 40
+  },
+  {
+    "text": "1 \u00ab Company: 2M KABLO LTD Order No= W/S-2005-004603 - IMPORTANT: This file is Copyright of IEC, Ganreva, Saiteedanit. All fights reserved This file is subject to a license agreement Enquiries to Email: custuervaioc,ch - Tel: +4422 919 02 11",
+    "page": 40
+  },
+  {
+    "text": "60502-1 \u00a9 IEC:2004 BET6 fe (see Tables 15 to 23) Table 14 \u2014 Non-electrical type tests Insulations Sheaths Designation of compounds (sac 4.2 and 4.3) PYCIA EPR HEPR XLPE PE ST, ST, ST, | ST;",
+    "page": 41
+  },
+  {
+    "text": "ST, SE, Dimensions Measurements of thickness Mechanica! properties V\u00e9ithaul ageing Afler ageing in alr oven After immersion in hot oll Thermoplastic prapertias Hot pressure lest (indentation) Behaviour at low temperature idiscellanoous Loss of mass in air oven Heal shock test (cracking) Ozone resistance test Hot sat test Water absorgtion Shrinkage test Carbon black content * Delermination of hardness Determination of elastic modulus (lansile strengin and elongation-al-hreak) Afler ageing of pleces af complete cable x x x x Fire tasts required) Smoke emission lest on cables Aci\u00a2 gas amission test pH and conductivity Fluorine content test Flame spread test an single cables (if - Flame spread test on bunched cables - NOTE \u00abx indicates that the type test is to be applied.",
+    "page": 41
+  },
+  {
+    "text": "* For black oversheaths only. iB) \u00a9 Under consideration, Indicates that the test & only required for EPR, HEPR and XLPE when ihe cabin is claimed to be halogen free. Customer Mehinal Oerell - No. of Userts Onder No. WWS-2005-004803 - IMPORT The Me i9 subject ta a icence agreemant. Enquiries to Email: custsernition.ch - Tal.",
+    "page": 41
+  },
+  {
+    "text": "441 22 919.02 11 > 1 - Company: 2M KABLO LTD, T: This fe is capyright of IEC, Geneva, Switzerland. All rights reserved",
+    "page": 41
+  },
+  {
+    "text": "60502-1 \u00a9 |IEC:2004 ~79- Table 15 \u2014 Test requirements for mechanical characteristics of insulating compounds (before and after ageing) Unit | PYC/A EPR HEPR XLPE 0,6/1(1,2) kV All 0,6/1(1,2) kV All 0,G/1{1,2} kV All Designation of compounds cables other cables other cables other (see 4.2) with cables with cables with cables copper copper copper conductors con con ductors ductors Maximum conductor temporature *c 70 90 90 90 90 90 80 in normal operation (see 4 2) Without ageing (EC 60811~1-1, Subciause 1.1) Tansile strength, minimum Nimen? |} 12,5 4,2 42 8.5 6,5 12.8 12,5 Elongatian-at-break, minemum % 150 200 200 200 200 2K) 200 After ageing /n an alr oven (EC 60811-1-2, Subclause 9.1) After ageing withoul conductar Treatment: \u2014 lemperature *c 100 135 1345 135 135 135 135 \u2014 lolerance a * +2 43 33 +3 +3 +3 +3 \u2014 duration h 168 168 168 168 166 168 168 Tensile strengit a) value afler ageing, minimum Nimm?} 12.5 = - - - - - b) variation *, maximum % 225 230 \u00a320 2 +30 \u00a325 +24 Elangatior-al-break: #) value afler ageing, minimum % 150 - = - - - - b) variation *, maximum % 225 +30 30 230 +30 +25 225 After ageing with copper conductor - followed by tha tensile leat \u201d Treatment;",
+    "page": 42
+  },
+  {
+    "text": "\u2014 lomperature \u00b0C - 150 - 1s ~ 150 - \u2014 lolerance *C - \u00a33 - +3 ~ \u00a33 - \u2014 duratian h - 168 - 168 - 168 ~ Tensile strength: Varialion \", maximum % - 24 - +30 - 20 - Elongation-at-break: Variation \u00a9, maximurn % - \u00a330 - +30 - +30 - After ageing with copper conductor followed by bending test (only if ihe tensile test is not practicable) \" Trealment: \u2014 lemperalure Cc - 140 - 150 - 1590 - \u2014 lolerance \u00b0C - 23 - \u00a33 - 3 - \u2014 duration h - 240 - 240 - 249 - Results lo be ablained - Na - No - No - cracks cracks cracks aS a percentage of Ihe latter = See 18.3.2.",
+    "page": 42
+  },
+  {
+    "text": "Variation: difference Setween the median value obtained after ageing and tha median value obtained without ageing expressed Custamer: Mehmut Dene? - No. of User(s): 1 ~ Cairgany: 2M KASLO LTO Order No.; WS-2005-104603 - IMPORTANT, This file is cop Ths fe & subject tn a licence agreement Enquiries io Emat: cusisernGroc.ch - Tel: +4122 91902 11 ght of IEC, Geneve, Switzerland. All ights reseceved",
+    "page": 42
+  },
+  {
+    "text": "60502-1 \u00a9 IEC:2004 - 81- Table 16 \u2014 Test requirements for particular characteristics for PVC insulating compound Designation of compound (see 4.2 and 4,3) Unit PYCIA Use of the PVC compound Insulation Pressure test ot high temperature (IEC GOB11-3-1, Clause 8} ~ tomperature (tolerance \u00a32 \u201cC) \u2018Cc 80 Behaviour at low temperature * (IEC 60811-1-4, Clause 8) Test to be carried oul without previous ageing: ~ cold bending test for diameter <12,5 mm ~ temperature [iolerance #2 \u00b0C) \"Cc -15 Cok! elongation test an dumb-belts: \u2014 lemperature (lolerance +? \"C) \u201cCc \u201415 Cold impact test: ~ temperature (tolerance \u00a32 \u00b0C) *c - Heal shock test (lEC 60811-3-1, Clause 9) Treatment: \u2014 temperature (tolerance +3 \u201cC} *c 18) \u2014 duration hr 1 Water absorption (EC 60811-1-3, SuBciause 8.1) Electrical method: Trealmant: ~ lemporature {tolerance \u00a32 \u00b0C) \"\u00a2 70 ~ duration h 240 \" Due to climatic conditions, national standards may require the use of a lower tom perature Customer, Metimel Dernli \u00ab No.",
+    "page": 43
+  },
+  {
+    "text": "af Users); 1 - ake eg S 2M KABLO LTD. Order No: Wi5-2005-004600 \u00ab IMPORTANT; This Ye is capyright af IEC, Geneva, Syatzerland. All ngnts reserved This file is sudject to @ icence apreemart, Enquries to Email: custsoraihiac.ch - Tel: +41 22 919 02 11",
+    "page": 43
+  },
+  {
+    "text": "{60502-1 \u00a9 1Ec:2004 es \u2018Table 17 ~ Tost requirements for particular characteristics of various thermosetting insulating compounds el] Mot sat test {JEC 60811-2-1,Clause 0) ait ere eee Earns ace a Oem no. 1-Corcry RABLO LTO, ae Tisai ahetto enceayeoruee EnpurostoOk escantsceh Taco a BSOL TT",
+    "page": 44
+  },
+  {
+    "text": "50502-1 \u00a9 1E0:2008 =a5- \u2018Table18 ~ Tost requirements for mechanical charact \u2018sheathing compounds (before and aftor ageing) \u2018Besigration of compound ust | sn] on | om | sn | on | se, ers) Stee] |e | ete | a ve | > | 9 | wo | 0 | o | o Fimout agama tee ener, Subsouse 92) ono stronat,mininur nm?) 228 | 128 | s00 | v28 109 Elongation.a teak, minimum % | 150 | 150 | 200 | 300 300 fieser Phe Suneouse@ 1) poate tolerance #2 \u00b0C) | 100 | 100 110 | 100 | 100 somes w | tee | tee 20 | te | fee rene sven 2) atv ata ageing, minenurs us| - | - | oo] - =} vasouon maxon ms] = | 2 | | a0 Elongationok: 5 ete te sain, inne % | 150 | 150 | soo | 200 | 100 | 250 >} vasaton ann % | is | as | | OP |e | 2 varatan sitronce bat \u2018hou kota nth min value slain alarHealant an he moc ate ade prcotage ota i ate bofIE Conn, Salzer Aa rtresres \u2018Shisho'a suet aeereasjecnam Engurastanak caseensvcen ta Seo tT",
+    "page": 45
+  },
+  {
+    "text": "60502-1 & |IEC:2004 =f= Table 19 \u2014 Test requirements for particular characteristics for PVC sheathing compounds Designation of compound (846 4.2 and 4.3) Unit ST, ST, Use of the PVC compound Sheath Loss of mass in an @ir oven Treatment: \u2014 duratian Maximum loss of mass (IEC 80811-3-2, Subclause 8.2) \u2014 temperature (tolerance t2 \u201cC) a \u00a2 100 168 magic? 1,4 (IEC 60011-3-1, Clause 3} Pressure test af high temperature ~ lempersture (tolerance 22 \u201cC) *c 90 (LEC 60811-1-4, Clause 8} Cold impact test: Schaviour at low temperature * Test lo be carried out without previous againg: \u2014 cold bending test for diameter <12.5 mm \u2014 lemperature (tolerance +2 *C) Cole elongation test on dumb-beuls: \u2014 lemperature (tolerance 22 \u00b0C) ~ temperature (tolerance #2 \u00b0C) *c -15 \u201415 \u2018Cc -15 15 *C ~15 -15 heat shack fas! (IEC 60B11-3-1, Clause 39) Treatmant: ~ duration \u2014~ temperature (lolerance 23 \u00b0C) \u00b0C 150 150 n 1 1 tomperature.",
+    "page": 46
+  },
+  {
+    "text": "* Due to climatic cenditions nalianal siandards may faquire tha use of a lower Custamar: Manmat Devel - No. of User(s): 1 - Coirpany: 2M KABLO LTD. Order No,; WS-2005-104602 - IMPORTANT, This This fle + subject to Ne is copyright of IEC, Geneva, Switzerland. Al rights reserved & licence agrasmom, Enquifies io Ema: custsenviiec.ch - Tel. +41 22 919 02 71",
+    "page": 46
+  },
+  {
+    "text": "60502-1 @ IEC:2004 - 89 - Table 20 \u2014 Test requirements for particular characteristics of thermoplastic PE sheathing compounds Designation of compounds Density * {IEC \u20ac0511-1-3, Clause 8) Carbon black content {for black oversheaths only) (IEC 60814-4-1, Ciause 11) Nominal value % 2.5 2.5 Tolerance % 20,5 +0,5 Shrinkage test {IEC \u20ac0811-1-3, Clause 14} Treatment: \u2014 temperature (tolerance #2 \"C) \u201cC 80 60 \u2014 heating, duration n 5 5 \u2014- heating, cycles 5 5 Maximum strinkage % 3 Prossure test at high tempersture (IEC 60B11-3-1, Subclause 8.2} \u2014 lomperature (tolerance 22 \u201cC) \u2018Cc 110 The measurement of density is only required for the purpose af other tests Qustomer: Meltrmet Derek \u00ab No.",
+    "page": 47
+  },
+  {
+    "text": "of veel al - Comperly: 2M KABLO LTD. Order No, WS-2005-004603 - IMPORTANT: This file Is copyrignt OHEC, Geneva, Satizerand. All ngnts reserved.This fin ts subject to a licence ogreement. Enquines to Email: custservepiec.ch - Tel: #41 22.919 02 17",
+    "page": 47
+  },
+  {
+    "text": "0502-1 \u00a9 1EC:2004 =91- Table 21 ~ Test requirements for particular characteristics of halogen free sheathing compound {eC soe 1-4 cha = \u00a301 boning ot for ameter <125 mm = fomperaure trance 22\u00b0) < 48 Col longtion tee on cuba = tomporatueolorance #2 \u00b0C), \u201c a |- temportere (tolerance 22\u00b0C) \u201c 5 rosso oat ti torpor (ee 6osr434: Ciuee 8) ~fomporature illrance #2 \u201cCh = oo (ECCS, Suboiauee 9.2) = tempore toorance 22\u00b0C), c 2 xinnone of mass rat 10 SeTe ME aracnay weoaraar Weeyee Gacu, Sxtitand Alas ere \u2018hati stopetio sence aosmart Enron nl eessangiccch Tol 228/900\"",
+    "page": 48
+  },
+  {
+    "text": "160502-1 \u00a9 1Ec:2004 93 Table 22 - Test \u2018elastomeric sheathing compound qulrements for particular characteristics of tee 3, (1 ineorion ai flows bya determinationothe mechan proper iEecoor2 Clas 40 ard EC 60811-11, Clavse9) Teeainent = ei tenperatur eeranco 22\u00b0C) pai 10 2) tons strana % 8) Slongatonar teak o {tEC'0854-24, cause 0) if ES 200 seinum alonpston ander lone % 175 \u2018Table 23 - Test methods and requirements for halogen free compounds flee Borst Boing an ehrinecanon (oxpested as HCH, maim % os (tee dues\u2019 Fore contort, masimum a (ree earee Sade masini stm \u2018eo aston res Dae set Conny:2 XALO LD, \u2018hee: Wesonaracisoy\" MiPGHT ANT Tale UeanygieciB Garon, Sona Aes sere \u2018sts esti a sence wpuemre EnqureniaCl casonaeron ta tt SSo18OSTt",
+    "page": 49
+  },
+  {
+    "text": "160502-1 \u00a9 1EC:2008 = 95- Fictitious calculation method for determination of dimensions of protective coverings. \u2018The thickness of cable coverings, such as sheaths and armour, has usually bos \u2018nominal cabie diameters by meansof step-tables\u201d. related to This sometimes causes problems. The calculated nominal diameters are not necessarily the same as the actual values achieved in production.",
+    "page": 50
+  },
+  {
+    "text": "In borderline cases, quories can aise if the thicknoss of a covering does not correspond to the actual diameter because the calculated iamotor is. slightly different.",
+    "page": 50
+  },
+  {
+    "text": "Variations in shaped conductor dimensions between \u2018manufacturers and different methods of calculation cause differences in nominal siameters and \u2018may therefore load to variations isthe thickaasses of coverings used on the same basic design of cable, To avold these dificubies, the fcttious calculationmethod shall be used.",
+    "page": 50
+  },
+  {
+    "text": "The idea Is to ignore tho shape and degree of compaction of conductors and to calculate feitious diameters rom formulae based on the cross-sectional area of conductors, nominal insulation thickness and umber of cores. Thicknesses of sheath and other coverings are then related to the Tcthious Glameters by formulae oF by tables.",
+    "page": 50
+  },
+  {
+    "text": "The method of calculating flctiious diameters Is precisely Spoctiog and thore is no ambiguity about the thleknessos of coverings to be Used, which are Independent of sight diferencos in manulacturing practices.",
+    "page": 50
+  },
+  {
+    "text": "This standardizes cable dosigns, {thicknesses boing pre-calculated and specified for each conductor cross-section, \u2018Tho feltious calculation is used only to determine dimensions of sheaths and eable coverings.",
+    "page": 50
+  },
+  {
+    "text": "IL nota replacement for the ealeuation of actual ameters required for practical purposes, \u2018which should be caleulated seperately, At General Tho following fictitious mathod of calculating thicknesses of various coverings in a cable has bean adopted to ensure thal any differences which can arise in independent calculations, for example due to the assumplion of conductor dimensions and the unavoidable elfferences between nominal and actually achieved vlamelore, are eliminated, All thickness values and \u00e9iameters shall be rounded sccording to the rules in Annex & to the first decimal figure.",
+    "page": 50
+  },
+  {
+    "text": "Holding strips, for example counter helix over armour, if not thicker than 0,3 mm, are neglected inthis coteutation methou. A2 Method A2A Conductors The fictitious diameter (ch) of@ conductor each nominal cross-section in Table At lurespectiveof shape and compaciness, is given for Strand Ms arcs",
+    "page": 50
+  },
+  {
+    "text": "60502-1 @ 1EC:2004 ~ 97 - Table A.1 \u2014 Fictitious diameter of conductor Nominal cross- ad Nominal cross-section a section of conductor of conductor mem? mm mm? mem 15 14 9S it.0 2.5 1.8 120 12.4 2.3 150 13,6 6 2.8 185 15,3 10 3.6 240 17,5 16 45 300 19.5 25 5,4 400 22.6 36 6,7 500 25,2 50 6,0 630 26,3 70 9,4 Bm) 31,9 1000 35,7 A.2.2 Cores The fictitious diameter DO.",
+    "page": 51
+  },
+  {
+    "text": "of any core is given by: De \u2014 ah +2 f where { is the nominal thickness of insulation, in millimetres (see Tables 5 to 7).",
+    "page": 51
+  },
+  {
+    "text": "if a metallic screen or a concentric conductor is applied, a further addition shall be made in accordance with A.2.5, A.2.3 Diameter over laid-up cores The fictitious diameter over laid-up cores ({D;) is given by: a) for cables having all conductors of the same nominal cross-sectional area: Dy = kD, where the assembly coefficient k is as given in Table A.2.",
+    "page": 51
+  },
+  {
+    "text": "b) for four-core cables with one conductor with reduced cross-section: 2,42(3 D-4 + Deg) D 4 where DO, Is the fictitious diameter of the insulated phase conductor, including metallic layer, if any, in millimetres; D-2 is the fictitious diameter of the conductor with reduced cross-section including the insulation or covering, If any, in millimetres, Custamer: Mehmat Deret - No.",
+    "page": 51
+  },
+  {
+    "text": "of User(s): 1 - Company: 2M KABLO LTO, Order No.: '\u2018WS-2005-004603 - IMPORTANT; This file is copyright DHlEC, Geneva, Switzerland, Al rights reserved The fle & subject to a loence agreement. Enquiries to Emal: custservGvec.ch - Tel. 441 22 919 02 44 160502-1 \u00a9 16\u00a2:2004 Table A2\u2014Assemblyoetfint for lallpres Naber saty ber aw 2 216 2 * an 2 as \u2018 300 2 oat fa aas x\u00bb ou . a8 2 70 \u00b0 a9 2 a0 .",
+    "page": 51
+  },
+  {
+    "text": "200 4 700 00 FS 700 1\" 40 x\u201c 700 s 400 \u201d 100 2 48 x ro \u201c aa \u201d 1 ana 2 rer 00 \u201d 00 2 sas \u2018 a8 2 se e 900 n est ies eased Won \u2018A24 Inner overngs \u2018The fictitious diameter over the inner covering (Op) fe given by: 05= 12 be whore tg =0.4 mm for fictitious diameters over laid-up cores ( Dj) up to and including 40 mm; tg =0.8mm/or Dy oxcooding40 mm.",
+    "page": 52
+  },
+  {
+    "text": "is Hip augetio eens apreenen: Ermurontotmal eustentieceh to\" staan 60502-1 \u00a9 IEC:2004 \u2014101- These fictitious values for fg apply to a) multicore cables: \u2014 whether an inner covering is applied or not; - whether the inner covering is extruded or lapped; unless a separation sheath complying with 12.3.3 is used in place of or in addition to the inner covering, when A.2.7 applies instead;",
+    "page": 52
+  },
+  {
+    "text": "b) single-core cables: when an inner covering is applied whether it is extruded or lapped. A.2.5 Concentric conductors and metallic screens The increase in diameter due to the concentric conductor or metallic screen is given in Table A.3.",
+    "page": 53
+  },
+  {
+    "text": "Table A,3 = Increase of diameter for concentric conductors and metallic screens Nominal cross-section increase Nominal cross-section Increase of concentric conductor in diameter of concentric conductor in diameter or metallic screen or metallic screen min? mm mm? renn 5 0.5 50 17 25 05 70 2,0 0.5 $5 24 0.6 120 2,7 10 0.6 150 3,0 'G 1,1 185 4,0 24 1.2 240 5,0 35 1,4 200 6.0 If the cross-section of the concentric conductor or metallic screen lies between two of the values given in the table above, then the increase in diameter is that given for the larger of the two cross-sections, lf a metallic screen is applied, the cross-sectional area of the screen to be used in the table above shall be calculated in the following manner: &) tape screen: cross-sectional area = my x ty x Ww where m is the number of tapes;",
+    "page": 53
+  },
+  {
+    "text": "{, is the nominal thickness of an individual tape, in millimetres: w, is the nominal width of an individual tape, in millimetres. Where the total thickness of the screen is less than 0,15 mm then the Increase in diameter shall be zero: \u2014 for a lapped tape screen made of either two tapes or one tape with overlap, the total thickness is twice the thickness of one tape; Custamer: Metiunal Derel - No.",
+    "page": 53
+  },
+  {
+    "text": "of User's): 1 - Company. 2h KABLO LTO. Order No.; WS-2005-104803 - IMPORTANT: \u2018This file is copyright cf IEC, Geneve, Switzerland, All rigs reserved Ths He 5 subject to a heence agreement. Enquiries to Email: cusisarvaites.ch - Tel. +41 22 919.02 14 {60502-1 \u00a9 1EC:2004 103- = fora longitudinally applied tape screen: ifthe overlap is below 30 %, the total thickness Is the thickness ofthe tape;",
+    "page": 53
+  },
+  {
+    "text": "+ if the overlap is greater than or equal to 30%, the total thickness is twice the \u2018thicknoss of the apo: \u00bb) ite sereen (with a countor nok, Hany) eros toclonalarea = PeSEE sa wero ny isthe number of wires; 4y isthe diameter of an individual wire, in miimetres; \u2018ny is tho number f counter hax (qs the thickness of counter helix, in millimetres, f greater than 0,3 mm;",
+    "page": 54
+  },
+  {
+    "text": "vy bs the width of eountor helix, in milimetres. Ars at th The ftiiousdiamotor over tho load sheath (Op) is given by Ppa2p + 2 typ whore ys tho fettious iamoter under the lead sheath n milimetres;",
+    "page": 54
+  },
+  {
+    "text": "\u2018bo Is tho thickness catelated in accordance with Cause 11, in miimetes, A217 Separation sheath The ficitious diameter over tho soparation sheath (0,) is given by: 0,=0,+2t, where 4 isthe fictitious dlametor undor the separation sheath, in millimetre f, Is the thickness calculated in accordancewith 12.3.3, in milimetrs, A28 Lapped bedding Tho fictitious iam 3 ovar the lapped bedding (Oy)is given by Op = Op 2 ty vr isthe fetious diametor under the lapped beding, in millimetres;",
+    "page": 54
+  },
+  {
+    "text": "iy 18 the thickness of lapped bedeing, i.e. 1,5 mm according to 12.84 Gastontne Da NooUs Gece: emcee hee ens actinees agroonest Enqunesto EnsheeserveiecehTat 41229",
+    "page": 54
+  },
+  {
+    "text": "60502-1 \u00a9 IEC:2004 \u2014 105 - A.2.9 Additional bedding for tape-armoured cables (provided over the inner covering) Table A.4 \u2014 Increase of diameter for additional bedding Fictitious diameter under increase in diameter for the additional bedding additional bedding Above Up to and Including mm mm cies - 29 1.0 29 - 1.6 A.2.10 Armour The fictitious diameter over the armour (D,)} is given for a) fiat or round wire armour by;",
+    "page": 55
+  },
+  {
+    "text": "Dy= Da + 2 ta + 2 by where Da is the diameter under the armour, in millimetres; f, is the thickness or diameter of the armour wire, in millimetres; ty is the thickness of the counter helix, if any, in millimetres, if greater than 0,3 mm, b) double tape armour by: where Da is the diameter under the armour, in millimetres; ta is the thickness of the armour tape, in millimetres. Customer;",
+    "page": 55
+  },
+  {
+    "text": "MMahmet Dereli- No. of User(s}: 1 - Company: 2M KABLO LTD Order Na.: VS-20015-004603 - IMPORTANT. This file is copyright of IEC, Geneva, Saitzertand. Al rights reserved This fie is subject lo a licence agreement Erquines to Emal cusiserv@Piec.ch - Tel +47 2297902 11",
+    "page": 55
+  },
+  {
+    "text": "160502-1 \u00a9 1E\u00a2:2004 =107- Annex B (normative) Rounding of numbers B.1_ Rounding of numbers for the purpose of the fictitious calculation method The following rules apply when rounding numbers in calculating fethious diameters.",
+    "page": 56
+  },
+  {
+    "text": "ane determining dimensions of component layers in accordance with Annex A, When the calculated value at any stage has more than ane decimal place, tho value shell be founded to one decimal placo, i.",
+    "page": 56
+  },
+  {
+    "text": "to the nearest 0,1 mm, The fettious ciameter at exch stage shall be rounded to 0.1 mm and, when used to dotermine the thicknoss or dimension of an \u2018overlying layer, it shall be rounded before being used in tho appropriate formulaor table.",
+    "page": 56
+  },
+  {
+    "text": "T thickness calculated from the rounded value of ihe fctiious diameter shal in turn be rounded 1.0.1 am a3 required in Annox A To itustrate those rules, the following practical examples ara giver 4) when the figure in tho sacond decimal place befere rounding is 0, 1, 2.",
+    "page": 56
+  },
+  {
+    "text": "3 oF &, thon the figure retained in the fst docimal place remains unchangod (rounding down), Examples: 2d2 = 24 2449 = 24 25.0878 = 25,0 b) whan the figure in tho second decimal place before rounding is 9, 8, 7, 6 oF 6, then the figure in the first decimal place is increased by one (rounding vp), Examples 2az 2.453 30,050 23 2 20, 8.2 Rounding of numbers for other purposes For purposes other than thoso considered under Clause 6.1, it may be required that values are rounded to moro than ene decimal place.",
+    "page": 56
+  },
+  {
+    "text": "This may occur, for instances, in calculating the \u2018average value of several moasuremant results ortho minimum value by applying @ percentage folerance to a given nominal value.",
+    "page": 56
+  },
+  {
+    "text": "In these eases, rounding shall bo cartied oul tothe number (of decimal places specifod inthe relevant clauses, \u2018The method of rounding shall then be as follows: 4) if the last figure to be retained is followed, before rounding, by 0, 1, 2.8 oF4 t shall remain tunchanged (rounding down);",
+    "page": 56
+  },
+  {
+    "text": "\u00bb) iF the last figure to be retained is followed, before rounding, by 9, 8, 7, 6 or \u00a7, it shall be Increased by one (rounding up) Seer Mant Dart eo Compa 2 40LID, \u2018eer: Wesabraneed)- MWTANT. Tha apres iEE Geese, Sana Arai sereTaito etjeta taren aye Engines weNer cosaentiacon: Yer s 25 010 ONT",
+    "page": 56
+  },
+  {
+    "text": "0502-1 \u00ab IEc:2004 = 109 = Examples: 2442 = 2,45 roundedto two decimal places 2449 = 24 roundedto one decimal place 25.0478 = 25,048. rounded to three decimal places 25,0878 ~ 25,05 rounded to two decimal places, 250478 = 25,0 rounded to one decimal place \u2018Thistle s subjectow lence agroarant Frauen to Ema eustesvaiae ch Tel =81 2518 02 1",
+    "page": 57
+  },
+  {
+    "text": "'60502-1 \u00a9 1EO:2008 ee Annex C (normative) Determination of hardness of HEPR insulations CA Tost pleco \u2018The test piece shall be @ sample of comploted cable with all the coverings, external to the HEPR insulationfo be measured, carefully removed, Alternatively,a sample of insulated core may be used. C2 Test procedure Tests shall bo mace in accordance with 180 48 with exceptions as indies Cr A.",
+    "page": 58
+  },
+  {
+    "text": "Surfacos of large radius of curvature \u2018The test instrument, in accordance with ISO 48, shall bo constructed so a to rest firmly on tho HEPR insulation and permit the presser foot and indenter to make vertical contact with th Surface. This is done ih one of the following ways\" 42) the instrument is filled with feot moveable in universal joints go that they adjust themselves tothe curved surface;",
+    "page": 58
+  },
+  {
+    "text": "\u00bb) the dase of the instrument is ited with two parallel rods A and A\u2019 their distance apart opending on the curvature ofthe surface (see Figure C.1), \u2018Those methods may be used on surfaces with radius of curvature dawn to:20 mm. |Whon the thicknoss of HEPR insulation tested le loss than 4 mm, an instrument as doscribod in the method used in 150 48 for thin ang smal test piecas shal be used. \u00a9.2.2.",
+    "page": 58
+  },
+  {
+    "text": "Surfaces of small radius of curvature \u2018On surfaces with too small a radius of curvature fer the procedures described in C.2.4, the teat piece shal be supported on tho same rigid base as the tostinsteumant, in such 9 way 08 10 minimize bodily movement of tne HEPR insulation when tha indenting fovco incroment is applied to the indentor and so that the indontor is vertically above tho axis of the test place, Suitable procedures are as follows 4) 9st the tostpioco in a grove or tough ina metal jig (see Figure C.22): rest tho ends of the conductorof the test piace in V-blocks (see Figure C.2b) \u2018The smatest radius of curvature of the surface to be measured by these methods shall bo at pasta me, For smaller radi, an instrument as described in the method used in 1SO 48 for thin ond small test pieces shall bo used, ih WHORIANT tha le Ceapaiea BL Genoa Se elisa noon Engen rediosen ta",
+    "page": 58
+  },
+  {
+    "text": "60502-1 \u00a9 1EC:2004 \u2014 113 - C.2.3 Conditioning and test temperature The minimum time between manufacture, |.e, vulcanization, and testing shall be 16 h. The test shall be carried out at a temperature of (20 + 2)\u00b0C and the test pieces shall be maintained at this temperature for at least 3 h immediately before testing.",
+    "page": 59
+  },
+  {
+    "text": "C.2.4 Number of measurements One measurement shall be made at each of three or five different points distribuled around the test piece, The median of the results shall be taken as the hardness of the test piece, expressed to the nearest whole number in international rubber hardness degrees (IRHD), Sco 22407 Figure C.1 \u2014 Test on surfaces of large radius of curvature Customer. Metimet Derell - No.",
+    "page": 59
+  },
+  {
+    "text": "of User(s): 1 - Company: 2M KABLO LTD. Order No.: WS-2005-004803 - IMPORTANT: This file is copyright of IEC, Gerews, Switzerland, A) rights reservedThs fife is subject fa & icence agmemom, Enquiries to Email: cusinervitec.cn - Tel: +41 22919 027 11",
+    "page": 59
+  },
+  {
+    "text": "0502-1 \u00a9 IEC:2004 Sie FigureC.2a - Test piece groove Figure \u00a2.2b~ Test pie in V-blocks Figure \u00a2.2 - Test on surfaces of small radius of curvature GeneraOna Nei Congo KOLO, | EC Standards Survey The IEC would like to offer you the best quality standards possible. To make sure that we continue to meet your needs, your feedback is essential.",
+    "page": 60
+  },
+  {
+    "text": "Would you please take a minute to answer the questions overleaf and fax them to us at +41 22 919 03 00 or mail them to the address below.",
+    "page": 61
+  },
+  {
+    "text": "Thank you! Customer Service Centre (CSC) International Electrotechnical Commission 3, rue de Varembe 1211 Gen\u00e9ve 20 Switzerland or Fax to: IEC/CSC at +41 22 919 03 00 Thank you for your contribution to the standards-making process, SDE ODS A SDE BECO ORS IF PACS ORE SI AOSeocesre hd Sb44S CDDP EEC 6E0l0 CH OCEH44 PENTOSE S.CeC edehe Geehbdosssedaseblsarcdtsstonets Nicht frankeren Ne pas alfranchir A Prioritaire Es Non alfrancere No stamp required REPONSE PAYEE SUISSE Customer Service Centre (CSC) International Electrotechnical Commission 3, rue de Varemb\u00e9 1211 GENEVA 20 Switzerland | Custamer: Mehimel Derel - No.",
+    "page": 61
+  },
+  {
+    "text": "of Usaris); 1 - Company: 2h KABLO LTD. Ordar Na,: \u201cWS-2005-004603 - IMPORTANT. This file is copyright ch lEC, Geneva, Switzerlard. All rights reserved gis file ts subject to a licence agreernent. Enquines to Emal: custsarv@ec.ch - Tel. 441 22 919.02 1 Qi Q2 Q3 Q4 Qs Please report on ONE STANDARD and ONE STANDARD ONLY. Enter the exact number of the standard: (e.g.",
+    "page": 61
+  },
+  {
+    "text": "60601-1-1) OPP PR RRRSEEE SSE TEER e SE Pee ee eee eer) Please tell us in what capacity(ies) you bought the standard (fick alf that apply).",
+    "page": 62
+  },
+  {
+    "text": "lam the/sa: purchasing agent librarian researcher design engineer safely engineer testing engineer marketing specialist | work for/in/as a: (tick all that apply) manufacturing consultant government testcertification facility public utility education military This standard will be used for: (tick all that apply} general reference product research product design/development specifications tenders quality assessment certification technical documentation thesis manufacturing This standard meets my needs: (tick one) not at all nearly fairly well exactly OodgodccaCoocou0odo ee bttaee Ocococooooccodoao ttre ee Oooo Q6 =] ~ Q8 Qg If you ticked NOT AT ALL in Question 5 the reason is: (tick all that apply) standard is out of date standard is incomplete standard is too academic standard is too superficial litle is misleading | made the wrong choice Please assess the standard in the following categories, using the numbers: (1) unacceptable, (2) below average, (3) average, (4) above average, (5) exceptional, (6) not applicable WITTROUINOBS sh cahssiccacesss scccacsusssbesanrsonces Qualily of writing.",
+    "page": 62
+  },
+  {
+    "text": "........0. eeeecccccsenvees technical contents.............::ccccccccseees logic of arrangement of contents ..... tables, charts, graphs, figures......,,..",
+    "page": 62
+  },
+  {
+    "text": "OPRGG saccaccsaccctssvsyseemncoscraacdeadarancnce\u00e9dbon | read/use the: (tick one) French text only English text only both English and French texts Please share any comment on any aspect of the IEC that you would like us to know: PPP eee eR PRESSES LESS SSE C TO CES ESSEC TT ET eee Eee ee Te POORER ee mmm meee eee meee HEE OOOH ERNE HEE EE PERRET TOOT ET EHH TEETH HEUER EERE E ER Rea ewes eseseee STOTT ELLER ERROR eee ee mmm ener ees orem awe eeeeEee PPPS Pee Pee Pee eee rere eee eee cee Tee eee ere.",
+    "page": 62
+  },
+  {
+    "text": "STEREO EEO OEE E TERRE RRM eeeeee PTO THOT E EERE REE RRR RRR ee etm mmm nee ee remem mm ewereEEE PPPS OES O EPSPS See eee eT eee eee eT ee ee ee ere) FOOTER REET HET OHO U TEETER ERR MEER eee esses FTO E EE RRR ee mee mm nee ee eee mmm eeeEee PRR SPRUCE CESS SSSE TTT TES Te eee eee Tee ee eee re Customer; Mehmet Dereli - No. of User(s}: 1 ~ Company: 2 KABLO LTD, Crier No.",
+    "page": 62
+  },
+  {
+    "text": "WS-2005-004603 - IMPORTANT: This fle & copyright of FEC, Genava. Swazeriand, All nights reserved. This file is subject to a icence agreament. Enquiries ta Email: cusssernitiec.ch- Tal: #41 22 61802 11 OCooocoaoCoco teeee a eee, Se, ee Sete Mees eat MASc Hee capygh RIES Canis, Suzan oon reser\u2018This tne sujoetoalnencs ogroomnt Ergunio Era ualsnifionch als s4t 2 819 OF tT",
+    "page": 62
+  },
+  {
+    "text": "ISBN 2-8318-7459-9 9 \u00b0782831\"874593 ICS 29.060,20 Typesel and printed by the IEC Central Offica GENEVA, SWITZERLAND Customer: Mahmet Deret \u00bb No. of Usaris):1 est aap 2M KABLO LTO. Order No.; WVS-2005-0O02809 - IMPORTANT: This file is copyright of IEC, Geneva, Switzertard, All rights reserved. This fe is subject to a licence agreement. Enquiries to Emal. cusiservidec.ch - Tel: +41 22 919 02 11",
+    "page": 64
+  }
+]

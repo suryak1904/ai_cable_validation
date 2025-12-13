@@ -1,0 +1,629 @@
+[
+  {
+    "fact_id": "f003b41f-3f48-4d57-b818-85a4c37f76d3",
+    "parameter": "Shrinkage test",
+    "constraint_type": "unknown",
+    "value": "3",
+    "unit": null,
+    "context": "Shrinkage test for PE oversheaths",
+    "source": {
+      "page": 6
+    }
+  },
+  {
+    "fact_id": "9c24e1e6-6f6f-4053-9d2c-29bc7196c3aa",
+    "parameter": "Water absorption test",
+    "constraint_type": "unknown",
+    "value": "3",
+    "unit": null,
+    "context": "Water absorption test for halogen free oversheaths",
+    "source": {
+      "page": 6
+    }
+  },
+  {
+    "fact_id": "068bdbe7-fc09-43e5-9724-0937708300e8",
+    "parameter": "Electrical tests after installation",
+    "constraint_type": "nominal",
+    "value": "73",
+    "unit": null,
+    "context": "Electrical tests after installation",
+    "source": {
+      "page": 6
+    }
+  },
+  {
+    "fact_id": "05765b6d-22c6-4791-bbf7-973a07ae97e2",
+    "parameter": "dimes protective coverings calculation method",
+    "constraint_type": "unknown",
+    "value": "107",
+    "unit": null,
+    "context": "Fictitious calculation method for determination of dimes protective coverings (Annex A)",
+    "source": {
+      "page": 6
+    }
+  },
+  {
+    "fact_id": "c55a13f9-9ab8-45a7-b4d2-36429364bb76",
+    "parameter": "numbering for rounding purposes",
+    "constraint_type": "unknown",
+    "value": "107, 107, 107",
+    "unit": null,
+    "context": "Rounding of numbers (Annex B and Annex C)",
+    "source": {
+      "page": 6
+    }
+  },
+  {
+    "fact_id": "580ccbdb-ccd8-48a5-967a-009099553f5c",
+    "parameter": "Test procedure",
+    "constraint_type": "unknown",
+    "value": "C.2 Test procedure on",
+    "unit": null,
+    "context": "Test procedure for large radius of curvature (Figure C.1)",
+    "source": {
+      "page": 6
+    }
+  },
+  {
+    "fact_id": "f4a8fe71-adfa-4a81-b1f7-106fa61ea6a2",
+    "parameter": "Nominal thickness",
+    "constraint_type": "unknown",
+    "value": "23, 28, 25, 29, 73, 49",
+    "unit": null,
+    "context": "Recommended rated voltages, Maximum conductor temperatures, Nominal thickness of insulation and armour tapes (Tables)",
+    "source": {
+      "page": 6
+    }
+  },
+  {
+    "fact_id": "b003e55a-df7d-4e7a-982d-8ec59094c739",
+    "parameter": "Nominal thickness",
+    "constraint_type": "unknown",
+    "value": "27, 30",
+    "unit": null,
+    "context": "Nominal thickness of cross-linked polyethylene (XLPE) and ethylene propylene rubber (EPR) insulation (Tables)",
+    "source": {
+      "page": 6
+    }
+  },
+  {
+    "fact_id": "e1f88601-6685-4a89-8b0b-42b16a265603",
+    "parameter": "Nominal thickness",
+    "constraint_type": "unknown",
+    "value": "4, 27",
+    "unit": null,
+    "context": "Nominal thickness of round armour wires and armour tapes (Tables)",
+    "source": {
+      "page": 6
+    }
+  },
+  {
+    "fact_id": "eebf615a-d360-4bfe-9c65-d36533e18c12",
+    "parameter": "Test requirements for insulating compounds",
+    "constraint_type": "unknown",
+    "value": "75",
+    "unit": null,
+    "context": "Electrical type test requirements (Table 12)",
+    "source": {
+      "page": 6
+    }
+  },
+  {
+    "fact_id": "0289be22-9f77-4fdf-9ce8-660462dd3d06",
+    "parameter": "Test requirements for mechanical characteristics of sheathing compounds",
+    "constraint_type": "unknown",
+    "value": "78, 79, 80",
+    "unit": null,
+    "context": "Mechanical type test requirements (Tables)",
+    "source": {
+      "page": 6
+    }
+  },
+  {
+    "fact_id": "704d2f56-aea1-429a-9d4d-8a263c34de7a",
+    "parameter": "rated voltage range",
+    "constraint_type": "nominal",
+    "value": "1 kV (U,, = 1,2 kV) and 3 kV (U,, = 3,6 kV)",
+    "unit": null,
+    "context": "Specified for construction of power cables with extruded solid insulation.",
+    "source": {
+      "page": 10
+    }
+  },
+  {
+    "fact_id": "2d8bc924-4cfa-426a-8fc6-904cd487ef97",
+    "parameter": "fire resistance test standard",
+    "constraint_type": "formula",
+    "value": "IEC 60332-3-24:2000, IEC 60502-2:1997",
+    "unit": null,
+    "context": "Included cables should pass specific fire tests.",
+    "source": {
+      "page": 10
+    }
+  },
+  {
+    "fact_id": "dbab448f-66de-4e76-a70c-ec293dc3c744",
+    "parameter": "customer information",
+    "constraint_type": "unknown",
+    "value": "Mehmet Orel, No. of Users = 2h KABLO LTD",
+    "unit": null,
+    "context": "Information about the customer who ordered.",
+    "source": {
+      "page": 10
+    }
+  },
+  {
+    "fact_id": "e8607d2c-1734-42c2-98e7-af4138d6cfb4",
+    "parameter": "order number",
+    "constraint_type": "unknown",
+    "value": "WS-20054104603",
+    "unit": null,
+    "context": "The specific order identifier provided.",
+    "source": {
+      "page": 10
+    }
+  },
+  {
+    "fact_id": "96da6cb5-0fbd-493d-9a48-804aecceb6fd",
+    "parameter": "license agreement information",
+    "constraint_type": "unknown",
+    "value": "important, licence agreement, email: custsersieo.ch - tel: +41 22 919 02 11",
+    "unit": null,
+    "context": "Instructions for obtaining a license to use the standard.",
+    "source": {
+      "page": 10
+    }
+  },
+  {
+    "fact_id": "6d1f8fcb-8eb3-417a-b1fc-e4e7851c47a3",
+    "parameter": "maximum conductor temperatures",
+    "constraint_type": "nominal",
+    "value": "90 | 250",
+    "unit": null,
+    "context": "Table 3 provides maximum conductor temperatures for different types of insulating compounds.",
+    "source": {
+      "page": 14
+    }
+  },
+  {
+    "fact_id": "140bb365-20c0-480e-b79e-77b80504851e",
+    "parameter": "maximum conductor temperature",
+    "constraint_type": "nominal",
+    "value": "250",
+    "unit": null,
+    "context": "Maximum conductor temperatures for cross-linked polyethylene (XLPE) are given in Table 3.",
+    "source": {
+      "page": 14
+    }
+  },
+  {
+    "fact_id": "06cb9dd8-ab35-4c42-943e-3123c5d5a254",
+    "parameter": "load factor for continuous operation",
+    "constraint_type": "unknown",
+    "value": "100 %",
+    "unit": null,
+    "context": "In normal operation, a cable directly buried in the ground is operated under continuous load (100% load factor) at the maximum conductor temperature shown in Table 3.",
+    "source": {
+      "page": 14
+    }
+  },
+  {
+    "fact_id": "91dfd3d2-2c93-40ff-b853-e4ce9a113158",
+    "parameter": "Armour Wire Diameter",
+    "constraint_type": "nominal",
+    "value": "0.8 \u2014- 1.25 \u2014 1,6 \u2014 2,0 \u2014 2,5 \u2014 3,15 mm",
+    "unit": null,
+    "context": "Nominal dimensions of the armour wires.",
+    "source": {
+      "page": 23
+    }
+  },
+  {
+    "fact_id": "4a0d76cf-5537-45d1-91f8-da83bf2bbcef",
+    "parameter": "Armour Wire Thickness",
+    "constraint_type": "unknown",
+    "value": "0.8 mm",
+    "unit": null,
+    "context": "Thickness of tapes of steel and aluminium or aluminium alloy.",
+    "source": {
+      "page": 23
+    }
+  },
+  {
+    "fact_id": "47d308c4-80cb-4a3e-8a20-4f14bcf730e0",
+    "parameter": "Nominal Diameter Round Armour Wires",
+    "constraint_type": "formula",
+    "value": "- Kit, 0.8 mm; 70 - 0.8 aw",
+    "unit": null,
+    "context": "Nominal diameter of round armour wires based on fictitious diameters under the armour.",
+    "source": {
+      "page": 23
+    }
+  },
+  {
+    "fact_id": "7678260f-8bdd-402d-8e17-f301f17422c2",
+    "parameter": "Nominal Thickness Armour Tapes Steel or Aluminium or aluminium alloy",
+    "constraint_type": "formula",
+    "value": "- 0.5 a8; 70 - 0.8 aw",
+    "unit": null,
+    "context": "Nominal thickness of armour tapes based on fictitious diameters under the armour.",
+    "source": {
+      "page": 23
+    }
+  },
+  {
+    "fact_id": "5164e4a3-0fc4-4096-9e88-491fb29d7f1f",
+    "parameter": "Flat Armour Wire Thickness",
+    "constraint_type": "nominal",
+    "value": "0.8 mm",
+    "unit": null,
+    "context": "Nominal thickness of flat steel wires under the armor.",
+    "source": {
+      "page": 23
+    }
+  },
+  {
+    "fact_id": "98f35023-11c9-4f8a-8be3-6aba0600c16e",
+    "parameter": "Armour Wire Thickness Flat Wires",
+    "constraint_type": "unknown",
+    "value": "0.8 mm",
+    "unit": null,
+    "context": "Nominal thickness of flat steel wires under the armor greater than 15 mm.",
+    "source": {
+      "page": 23
+    }
+  },
+  {
+    "fact_id": "cac4f0a9-1d86-48d8-8665-c2e8771d28e0",
+    "parameter": "minimum thickness value",
+    "constraint_type": "nominal",
+    "value": "95%",
+    "unit": null,
+    "context": "Specifying the minimum required percentage of nominal thickness for lead sheath.",
+    "source": {
+      "page": 29
+    }
+  },
+  {
+    "fact_id": "ef11702e-c196-4c44-b13a-dfba99082937",
+    "parameter": "thickness value",
+    "constraint_type": "maximum",
+    "value": "0.1 mm",
+    "unit": null,
+    "context": "Specifying the maximum allowable deviation from nominal thickness for lead sheath measurement.",
+    "source": {
+      "page": 29
+    }
+  },
+  {
+    "fact_id": "36c34ee4-4b82-4eea-a02e-f0202ffd2b45",
+    "parameter": "thickness value",
+    "constraint_type": "maximum",
+    "value": "0.2 mm",
+    "unit": null,
+    "context": "Specifying the maximum allowable deviation from nominal thickness for sheath with oversheath applied directly over armour.",
+    "source": {
+      "page": 29
+    }
+  },
+  {
+    "fact_id": "be45d897-5993-4491-baf3-41b4998915df",
+    "parameter": "thickness value",
+    "constraint_type": "maximum",
+    "value": "0.4 mm",
+    "unit": null,
+    "context": "Specifying the maximum allowable deviation from nominal thickness for lead sheath measurement method.",
+    "source": {
+      "page": 29
+    }
+  },
+  {
+    "fact_id": "6ae21eee-8f28-463f-b6b0-2e446858bb98",
+    "parameter": "thickness value",
+    "constraint_type": "maximum",
+    "value": "0.01 mm",
+    "unit": null,
+    "context": "Specifying the maximum allowable deviation from nominal thickness for strip method measurement.",
+    "source": {
+      "page": 29
+    }
+  },
+  {
+    "fact_id": "38f777c8-2006-4ca1-8ece-f42a6729c24a",
+    "parameter": "diameter value",
+    "constraint_type": "maximum",
+    "value": "20.01 mm",
+    "unit": null,
+    "context": "Specifying the maximum allowable deviation from nominal thickness for round wires measurement.",
+    "source": {
+      "page": 29
+    }
+  },
+  {
+    "fact_id": "c87e6582-5fd7-4613-bcf9-d178bf3f1d0f",
+    "parameter": "micrometer diameter",
+    "constraint_type": "nominal",
+    "value": "5 mm",
+    "unit": null,
+    "context": "Measurement of tapes with a micrometer having two flat noses.",
+    "source": {
+      "page": 30
+    }
+  },
+  {
+    "fact_id": "4315cdfb-c2ea-4fa8-abcc-8a7bfdd1aa41",
+    "parameter": "tape width limit",
+    "constraint_type": "maximum",
+    "value": "40 mm",
+    "unit": null,
+    "context": "Measurement of tapes at the centre if their width is up to 40 mm.",
+    "source": {
+      "page": 30
+    }
+  },
+  {
+    "fact_id": "910eabef-09b7-48cf-b239-8c6a889027b9",
+    "parameter": "tape thickness measurement points",
+    "constraint_type": "formula",
+    "value": "20 mm from each edge",
+    "unit": null,
+    "context": "For wider tapes, measurements are taken 20 mm from each edge of the tape.",
+    "source": {
+      "page": 30
+    }
+  },
+  {
+    "fact_id": "851a9cfa-40ee-4bfc-913c-eb5d96c4452d",
+    "parameter": "cable length sample",
+    "constraint_type": "nominal",
+    "value": "10 m to 15 m",
+    "unit": null,
+    "context": "Sample of completed cable subjected to various tests (insulation resistance measurement, voltage test).",
+    "source": {
+      "page": 30
+    }
+  },
+  {
+    "fact_id": "4bdd834b-6e97-4d93-8e05-9f9da2ef333e",
+    "parameter": "impulse test condition",
+    "constraint_type": "nominal",
+    "value": "10 m to 15 m",
+    "unit": null,
+    "context": "Impulse test on a separate sample of completed cable for cables rated 1,8/3 (3,6) kV.",
+    "source": {
+      "page": 30
+    }
+  },
+  {
+    "fact_id": "ccc5fd6a-3356-4d2b-9ec1-a17d117444d1",
+    "parameter": "cable length limit",
+    "constraint_type": "maximum",
+    "value": "not more than three cores",
+    "unit": null,
+    "context": "Tests applied to cables with not more than three cores.",
+    "source": {
+      "page": 30
+    }
+  },
+  {
+    "fact_id": "107014a9-3098-4816-b5aa-3cc1a363e192",
+    "parameter": "customer Mehmet Derali company",
+    "constraint_type": "unknown",
+    "value": "2M KABLO LTD.",
+    "unit": null,
+    "context": "Customer information for the file, including name and number of users (1).",
+    "source": {
+      "page": 30
+    }
+  },
+  {
+    "fact_id": "6489cbcc-0e9b-463c-a9dd-708a1f7cbe51",
+    "parameter": "customer Mehmet Derali no. w/s",
+    "constraint_type": "unknown",
+    "value": "W/S-2005-004650G",
+    "unit": null,
+    "context": "Customer information for the file, including reference number (1).",
+    "source": {
+      "page": 30
+    }
+  },
+  {
+    "fact_id": "6be12f7a-98e9-4265-a9b5-ec62e021d0c4",
+    "parameter": "customer Mehmet Derali enquiries contact details",
+    "constraint_type": "unknown",
+    "value": "Email: custeerviiiec.ch - Tel: +41 22 919 02 11",
+    "unit": null,
+    "context": "Customer information for the file, including how to get in touch with enquiries (1).",
+    "source": {
+      "page": 30
+    }
+  },
+  {
+    "fact_id": "2fef027a-eaab-4797-bb62-235131314efd",
+    "parameter": "sample length",
+    "constraint_type": "unknown",
+    "value": "before any other electrical test",
+    "unit": null,
+    "context": "Procedure for insulation resistance measurement at ambient temperature.",
+    "source": {
+      "page": 31
+    }
+  },
+  {
+    "fact_id": "2793198c-ac2d-434c-a33f-f04a3741701d",
+    "parameter": "ambient temperature",
+    "constraint_type": "unknown",
+    "value": "at ambient",
+    "unit": null,
+    "context": "Procedure for insulation resistance measurement at ambient temperature.",
+    "source": {
+      "page": 31
+    }
+  },
+  {
+    "fact_id": "5feccf94-3b29-4328-b37f-47c48eb0d7f9",
+    "parameter": "d.c. test voltage range",
+    "constraint_type": "nominal",
+    "value": "80 V - 500 V",
+    "unit": null,
+    "context": "Procedure for insulation resistance measurement at ambient temperature.",
+    "source": {
+      "page": 31
+    }
+  },
+  {
+    "fact_id": "733a812a-6fbe-499d-91f6-ce573ba1ca96",
+    "parameter": "test voltage duration",
+    "constraint_type": "unknown",
+    "value": "sufficient time to reach a reasonably steady measurement, but in any case for nol less than 1 min and not more than 5 min",
+    "unit": null,
+    "context": "Procedure for insulation resistance measurement at ambient temperature.",
+    "source": {
+      "page": 31
+    }
+  },
+  {
+    "fact_id": "9e076727-cf9e-43ce-bce4-3ab0574cbd17",
+    "parameter": "inner diameter of the insulation",
+    "constraint_type": "unknown",
+    "value": "in millimetres",
+    "unit": null,
+    "context": "Procedure for calculation of volume resistivity from measured insulation resistance.",
+    "source": {
+      "page": 31
+    }
+  },
+  {
+    "fact_id": "b0ae9fb1-e218-4a93-aeb9-0b42c1c0cd55",
+    "parameter": "outer diameter of the insulation",
+    "constraint_type": "unknown",
+    "value": "in millimetres",
+    "unit": null,
+    "context": "Procedure for calculation of volume resistivity from measured insulation resistance.",
+    "source": {
+      "page": 31
+    }
+  },
+  {
+    "fact_id": "1c259e7d-4833-4967-885a-bf1d573f3ff5",
+    "parameter": "volume resistivity",
+    "constraint_type": "unknown",
+    "value": "in ohms - centimetres",
+    "unit": null,
+    "context": "Procedure for calculation of volume resistivity from measured insulation resistance.",
+    "source": {
+      "page": 31
+    }
+  },
+  {
+    "fact_id": "99e26484-8844-4e66-bfcd-53253b2f6854",
+    "parameter": "insulation resistance constant Kj",
+    "constraint_type": "unknown",
+    "value": "in megohms. kilometres",
+    "unit": null,
+    "context": "Procedure for calculating the insulation resistance constant Kj.",
+    "source": {
+      "page": 31
+    }
+  },
+  {
+    "fact_id": "e994dc3c-e3ed-44db-94a4-1599dae74290",
+    "parameter": "volume resistivity calculation formula",
+    "constraint_type": "formula",
+    "value": "2xnx/ixR",
+    "unit": null,
+    "context": "Procedure for calculating the volume resistivity.",
+    "source": {
+      "page": 31
+    }
+  },
+  {
+    "fact_id": "f0fd75df-9a03-4eee-b931-c80d8cf99f68",
+    "parameter": "insulation resistance constant calculation formula",
+    "constraint_type": "formula",
+    "value": "_IxRxio\"=107'' \u00ab0,367 x p",
+    "unit": null,
+    "context": "Procedure for calculating the insulation resistance constant Kj.",
+    "source": {
+      "page": 31
+    }
+  },
+  {
+    "fact_id": "5c46ca92-9cf4-4752-af96-902491dd7710",
+    "parameter": "maximum conductor temperature",
+    "constraint_type": "unknown",
+    "value": "+2 \u00b0C of the maximum conductor temperature in normal operation",
+    "unit": null,
+    "context": "Procedure for insulation resistance measurement at maximum conductor temperature.",
+    "source": {
+      "page": 31
+    }
+  },
+  {
+    "fact_id": "32eb5267-2971-4a88-9451-0ac65e808210",
+    "parameter": "ratio of the perimeter over the insulation to the penmeter over the conductor (for cores of shaped conductors)",
+    "constraint_type": "unknown",
+    "value": "the ratio Dd",
+    "unit": null,
+    "context": "Calculations for volume resistivity from measured insulation resistance.",
+    "source": {
+      "page": 31
+    }
+  },
+  {
+    "fact_id": "30f2c788-b28f-4b99-80d9-97a92dfd1f6f",
+    "parameter": "Table 13",
+    "constraint_type": "minimum",
+    "value": "for the values calculated from the measurements to be not less than those specified in Table 13",
+    "unit": null,
+    "context": "Requirements for the values calculated from the measurements.",
+    "source": {
+      "page": 31
+    }
+  },
+  {
+    "fact_id": "ddf2c77f-7fca-459d-b119-6a6ff8d37195",
+    "parameter": "Table 15",
+    "constraint_type": "unknown",
+    "value": "60502-1 \u00a9 2004 ~ 63",
+    "unit": null,
+    "context": "Requirements for test results of aged and unaged test pieces.",
+    "source": {
+      "page": 34
+    }
+  },
+  {
+    "fact_id": "f00778e9-b3f7-404d-b371-b1e6fc275d62",
+    "parameter": "Table 18",
+    "constraint_type": "unknown",
+    "value": "60502-1 \u00a9 2004 ~ 63",
+    "unit": null,
+    "context": "Requirements for test results of aged and unaged test pieces.",
+    "source": {
+      "page": 34
+    }
+  },
+  {
+    "fact_id": "249ce1eb-fbcf-4717-89d4-1a70560d651c",
+    "parameter": "8.1.4 IEC 60811-1-2",
+    "constraint_type": "nominal",
+    "value": "temperature: (10 = 2) \u00b0C above the maximum conductor temperature of the cable in normal operation",
+    "unit": "\u00b0C",
+    "context": "Ageing treatments and mechanical tests conditions.",
+    "source": {
+      "page": 34
+    }
+  },
+  {
+    "fact_id": "058135e1-ef50-477b-8c74-b6d3c19d188d",
+    "parameter": "8.1.4 IEC 60811-1-2",
+    "constraint_type": "formula or unknown",
+    "value": "temperature: (10 = 2) \u00b0C above the maximum conductor temperature of the cable in normal operation, Guration: 7 x 24h.",
+    "unit": null,
+    "context": "Ageing treatments and mechanical tests conditions.",
+    "source": {
+      "page": 34
+    }
+  }
+]

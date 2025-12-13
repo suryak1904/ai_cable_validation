@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+requests
+sentence-transformers
+torch
+faiss-cpu
+pdfplumber
+pillow
+ocrmypdf
+pytesseract
+numpy
+pydantic
