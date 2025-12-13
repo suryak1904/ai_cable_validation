@@ -1,0 +1,169 @@
+
+This project validates **free-text cable design descriptions** against **IEC 60502-1** standards using a **Retrieval-Augmented Generation (RAG)** pipeline with a **deterministic LLM**.
+
+The system is designed to be:
+
+* **Auditable**
+* **Deterministic**
+* **Safe (no hallucinated compliance)**
+* **Production-ready**
+
+---
+
+##  How It Works
+
+```
+User Free Text
+      ↓
+FAISS Retrieval (IEC rules)
+      ↓
+LLM Reasoning (Qwen, deterministic)
+      ↓
+PASS / FAIL / WARN (with IEC source)
+```
+
+---
+
+##  Key Features
+
+*  Accepts **plain free text** (no structured input required)
+*  Semantic retrieval using **FAISS + Sentence Transformers**
+*  Local **Qwen LLM** for reasoning
+*  **Deterministic outputs** (temperature = 0.0)
+*  Strict IEC-based validation
+*  Summarized, **audit-friendly IEC source references**
+*  FastAPI endpoint for easy integration
+
+---
+
+##  Project Structure
+
+```
+fast_api/
+│
+├── main.py              # FastAPI app
+├── retriever.py         # FAISS retrieval logic
+├── validator.py         # LLM validation
+├── prompt.py            # Validation prompt
+├── qwen_llm.py          # Qwen model loader & inference
+├── embedder.py          # SentenceTransformer embeddings
+├── faiss_store.py       # FAISS index save/load
+├── schemas.py           # API request schema
+├── faiss_index/         # index.faiss + metadata
+├── requirements.txt
+└── README.md
+```
+
+---
+
+##  Requirements
+
+* Python **3.9+**
+* Internet access (first run only, to download the model)
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+>  The **Qwen model is downloaded automatically** by Hugging Face on first run and cached locally.
+
+---
+
+##  Model Used
+
+* **Qwen/Qwen2.5-1.5B-Instruct**
+* Runs locally via `transformers`
+* Downloaded automatically (not included in the repository)
+
+---
+
+##  Running the API
+
+Start the FastAPI server:
+
+```bash
+uvicorn main:app --reload
+```
+
+Open Swagger UI:
+
+```
+http://127.0.0.1:8000/docs
+```
+
+---
+
+## 🔌 API Usage
+
+### Endpoint
+
+```
+POST http://127.0.0.1:8000/design/validate
+```
+
+### Request (Free Text Only)
+
+```json
+{
+  "text": "PVC insulated copper cable, 0.6/1 kV, CSA 16 sqmm, insulation thickness 1.2 mm"
+}
+```
+
+### Response
+
+```json
+{
+  "status": "PASS",
+  "reason": "The PVC insulation thickness meets the minimum requirement for a 16 sqmm conductor at 0.6/1 kV.",
+  "source": "IEC 60502-1 Table 5 – PVC insulation thickness for 16 sqmm at 0.6/1 kV"
+}
+```
+
+---
+
+##  Validation Logic
+
+| Condition                        | Result |
+| -------------------------------- | ------ |
+| Clearly meets IEC requirement    | PASS   |
+| Clearly violates IEC requirement | FAIL   |
+| Missing or ambiguous data        | WARN   |
+
+---
+
+##  Determinism & Safety
+
+* LLM runs with `temperature = 0.0`
+* Same input always produces the same output
+* No inferred tolerances or guessed values
+* Validation strictly limited to retrieved IEC rules
+
+---
+
+##  Out of Scope
+
+* Automatic certification
+* Guessing IEC values from unclear OCR
+* Multi-standard validation (IEC only)
+* Visual table reconstruction
+
+---
+
+
+## Future Enhancements
+
+* Batch validation
+* Structured IEC rule extraction
+* Improved OCR normalization
+* Docker deployment
+* Authentication and rate limiting
+
+---
+
+##  Author
+
+Built by **Surya**
+
+
