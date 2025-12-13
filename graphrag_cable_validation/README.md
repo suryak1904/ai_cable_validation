@@ -13,7 +13,7 @@ Unlike a basic RAG system, this solution uses a **Knowledge Graph–driven retri
 * Evidence-based decisions
 * Conservative compliance behavior (PASS / FAIL / WARN)
 
-The system is designed to behave like a **real engineering compliance engine**, not a Q&A chatbot.
+The system is designed to behave like a **real compliance engine**, not a Q&A chatbot.
 
 ---
 
