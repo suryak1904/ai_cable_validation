@@ -121,6 +121,9 @@ POST http://127.0.0.1:8000/design/validate
 }
 ```
 
+ {
+   "text": "XLPE cable 50 sqmm 1.8/3 kV insulation thickness 1.0 mm"
+}
 ---
 
 ##  Validation Logic
