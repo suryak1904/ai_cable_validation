@@ -3,7 +3,7 @@ from kg_builder import extract_kg_facts
 import json
 import os
 
-PDF_PATH = r"E:\cable_validation\data\IEC_60502_searchable.pdf"
+PDF_PATH = r" path of IEC_60502_searchable.pdf"
 KG_PATH = "kg.json"
 
 def load_existing_kg():
