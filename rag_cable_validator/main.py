@@ -2,9 +2,18 @@ from fastapi import FastAPI, HTTPException
 from retriever import retrieve_rules
 from validator import validate_with_llm
 from pydantic import BaseModel
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI(
     title="IEC Cable Design Validator"
+)
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],   
+    allow_credentials=True,
+    allow_methods=["*"],   
+    allow_headers=["*"],
 )
 
 class ValidationRequest(BaseModel):

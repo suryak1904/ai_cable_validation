@@ -2,11 +2,18 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 from retriever.pipeline import retrieve_context
 from validation.run_validator import validate
-
+from fastapi.middleware.cors import CORSMiddleware
 app = FastAPI(
-    title="IEC Cable Validation API",
+    title="IEC Cable Design Validator"
 )
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],   
+    allow_credentials=True,
+    allow_methods=["*"],   
+    allow_headers=["*"],
+)
 class ValidationRequest(BaseModel):
     text: str
 
