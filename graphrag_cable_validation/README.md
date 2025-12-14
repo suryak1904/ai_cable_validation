@@ -180,7 +180,7 @@ python build_faiss_index.py
 ### Run API
 
 ```bash
-uvicorn app:app --reload
+uvicorn cable_validator:app --reload
 ```
 
 Open Swagger UI:
